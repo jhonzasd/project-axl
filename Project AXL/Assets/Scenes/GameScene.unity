@@ -199,7 +199,7 @@ Canvas:
   m_VertexColorAlwaysGammaSpace: 0
   m_AdditionalShaderChannelsFlag: 25
   m_UpdateRectTransformForStandalone: 0
-  m_SortingLayerID: 0
+  m_SortingLayerID: 864538373
   m_SortingOrder: 0
   m_TargetDisplay: 0
 --- !u!224 &303719342
@@ -326,7 +326,7 @@ GameObject:
   - component: {fileID: 618359067}
   - component: {fileID: 618359069}
   - component: {fileID: 618359068}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Text (TMP)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1075,8 +1075,11 @@ MonoBehaviour:
   - {fileID: 1022194767}
   - {fileID: 876124872}
   - {fileID: 1584216279}
-  fullHeart: {fileID: 1102011078175751975, guid: 71510f6e4e4fd5849a74ea2ca4343833, type: 3}
-  emptyHeart: {fileID: -4695995843240976310, guid: 71510f6e4e4fd5849a74ea2ca4343833, type: 3}
+  heart0: {fileID: -4695995843240976310, guid: 71510f6e4e4fd5849a74ea2ca4343833, type: 3}
+  heart25: {fileID: -2231579147350382289, guid: 71510f6e4e4fd5849a74ea2ca4343833, type: 3}
+  heart50: {fileID: -1115089251380960089, guid: 71510f6e4e4fd5849a74ea2ca4343833, type: 3}
+  heart75: {fileID: 4672015555972736730, guid: 71510f6e4e4fd5849a74ea2ca4343833, type: 3}
+  heart100: {fileID: 1102011078175751975, guid: 71510f6e4e4fd5849a74ea2ca4343833, type: 3}
 --- !u!4 &2085820260
 Transform:
   m_ObjectHideFlags: 0
