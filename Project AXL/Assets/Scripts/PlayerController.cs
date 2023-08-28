@@ -18,9 +18,20 @@ public class PlayerController : MonoBehaviour
     public float bulletSpeed;
     private float lastFire;
     public float fireDelay;
+
+    // Animación
+    Animator animator;
+    private const string STATE_MOVING_DOWN = "isMovingDown";
+    private const string STATE_MOVING_UP = "isMovingUp";
+    private const string STATE_MOVING_HORIZONTAL = "isMovingHorizontal";
+
+
+    SpriteRenderer sprite;
     void Awake()
     {
         rigidBody = GetComponent<Rigidbody2D>(); // Permite acceder al componente Rigidbody2D a través de la variable rigidBody
+        animator = GetComponent<Animator>(); // Permite acceder al componente Animator a través de la variable animator
+        sprite = GetComponent<SpriteRenderer>();
     }
 
     // Start is called before the first frame update
@@ -46,6 +57,59 @@ public class PlayerController : MonoBehaviour
 
         rigidBody.velocity = new Vector2(horizontal * movementSpeed, vertical * movementSpeed); // Permite que el personaje se mueva en todas las direcciones
         collectedBatteryText.text = "Baterías recolectadas: " + collectedBatteryAmount;
+
+        // Animación
+
+        if(horizontal != 0)
+        {
+            animator.SetBool(STATE_MOVING_HORIZONTAL, true);
+        }
+        else
+        {
+            animator.SetBool(STATE_MOVING_HORIZONTAL, false);
+        }
+
+        if(vertical < 0)
+        {
+            animator.SetBool(STATE_MOVING_DOWN, true);
+        }
+        else
+        {
+            animator.SetBool(STATE_MOVING_DOWN, false);
+        }
+
+        if (vertical > 0)
+        {
+            animator.SetBool(STATE_MOVING_UP, true);
+        }
+        else
+        {
+            animator.SetBool(STATE_MOVING_UP, false);
+        }
+        
+
+        if(horizontal < 0)
+        {
+            sprite.flipX = true;
+        }
+        if(horizontal > 0)
+        {
+            sprite.flipX = false;
+        }
+
+        if(animator.GetBool(STATE_MOVING_HORIZONTAL) && animator.GetBool(STATE_MOVING_UP))
+        {
+            animator.SetBool(STATE_MOVING_UP, true);
+            animator.SetBool(STATE_MOVING_HORIZONTAL, false);
+        }
+
+        if(animator.GetBool(STATE_MOVING_HORIZONTAL) && animator.GetBool(STATE_MOVING_DOWN))
+        {
+            animator.SetBool(STATE_MOVING_DOWN, true);
+            animator.SetBool(STATE_MOVING_HORIZONTAL, false);
+        }
+        
+    
     }
 
     void Shoot(float x, float y)
