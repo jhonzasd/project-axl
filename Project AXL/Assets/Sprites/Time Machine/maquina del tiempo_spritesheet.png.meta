@@ -1,0 +1,558 @@
+fileFormatVersion: 2
+guid: 4b43bc001b40c1344967e6ba81f35f5e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 219170522185273886
+    second: maquina del tiempo_spritesheet_0
+  - first:
+      213: 27482195744473101
+    second: maquina del tiempo_spritesheet_1
+  - first:
+      213: 4791970391778966866
+    second: maquina del tiempo_spritesheet_2
+  - first:
+      213: 7225552447203264197
+    second: maquina del tiempo_spritesheet_3
+  - first:
+      213: 6102349821973420507
+    second: maquina del tiempo_spritesheet_4
+  - first:
+      213: 7857891760871306438
+    second: maquina del tiempo_spritesheet_5
+  - first:
+      213: 4873141803842181456
+    second: maquina del tiempo_spritesheet_6
+  - first:
+      213: 7713938138089913564
+    second: maquina del tiempo_spritesheet_7
+  - first:
+      213: 5354676992849146844
+    second: maquina del tiempo_spritesheet_8
+  - first:
+      213: -6259878832396919830
+    second: maquina del tiempo_spritesheet_9
+  - first:
+      213: -6067421587919040380
+    second: maquina del tiempo_spritesheet_10
+  - first:
+      213: 7803573203965847945
+    second: maquina del tiempo_spritesheet_11
+  - first:
+      213: -5255528041884713182
+    second: maquina del tiempo_spritesheet_12
+  - first:
+      213: 8612674117535832452
+    second: maquina del tiempo_spritesheet_13
+  - first:
+      213: 1914126096625656198
+    second: maquina del tiempo_spritesheet_14
+  - first:
+      213: -3575602726026562262
+    second: maquina del tiempo_spritesheet_15
+  - first:
+      213: 3418623390915848130
+    second: maquina del tiempo_spritesheet_16
+  - first:
+      213: 3724313949725569951
+    second: maquina del tiempo_spritesheet_17
+  - first:
+      213: 1990741475703310642
+    second: maquina del tiempo_spritesheet_18
+  - first:
+      213: -827205120930832184
+    second: maquina del tiempo_spritesheet_19
+  - first:
+      213: -925704239710311454
+    second: maquina del tiempo_spritesheet_20
+  - first:
+      213: -7793626494037368807
+    second: maquina del tiempo_spritesheet_21
+  - first:
+      213: 4714657797122085468
+    second: maquina del tiempo_spritesheet_22
+  - first:
+      213: -8026617472658764054
+    second: maquina del tiempo_spritesheet_23
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 15
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: maquina del tiempo_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 111
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e121710cd66aa0300800000000000000
+      internalID: 219170522185273886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maquina del tiempo_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 0
+        width: 111
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d004ff259e2a16000800000000000000
+      internalID: 27482195744473101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maquina del tiempo_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 0
+        width: 111
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25dbc20beaf708240800000000000000
+      internalID: 4791970391778966866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maquina del tiempo_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 0
+        width: 111
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c641890ba1564460800000000000000
+      internalID: 7225552447203264197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maquina del tiempo_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 0
+        width: 111
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd9d4e9d4d6efa450800000000000000
+      internalID: 6102349821973420507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maquina del tiempo_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 0
+        width: 111
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c4f3327ce6dc0d60800000000000000
+      internalID: 7857891760871306438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maquina del tiempo_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 0
+        width: 111
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0599e1ec6a0e0a340800000000000000
+      internalID: 4873141803842181456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maquina del tiempo_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 0
+        width: 111
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdcff2ccdd96d0b60800000000000000
+      internalID: 7713938138089913564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maquina del tiempo_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 0
+        width: 111
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd3fabdca52af4a40800000000000000
+      internalID: 5354676992849146844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maquina del tiempo_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 0
+        width: 111
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb9ef14e517029a0800000000000000
+      internalID: -6259878832396919830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maquina del tiempo_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 0
+        width: 111
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4809c8d56303ccba0800000000000000
+      internalID: -6067421587919040380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maquina del tiempo_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 0
+        width: 111
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9892421eb7cdb4c60800000000000000
+      internalID: 7803573203965847945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maquina del tiempo_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 0
+        width: 111
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22f7b54471d9017b0800000000000000
+      internalID: -5255528041884713182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maquina del tiempo_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 0
+        width: 111
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4899ced5a7d568770800000000000000
+      internalID: 8612674117535832452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maquina del tiempo_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 0
+        width: 111
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6816dac1b87509a10800000000000000
+      internalID: 1914126096625656198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maquina del tiempo_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 0
+        width: 111
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a25b449d348e06ec0800000000000000
+      internalID: -3575602726026562262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maquina del tiempo_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 0
+        width: 111
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c761648cd3617f20800000000000000
+      internalID: 3418623390915848130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      maquina del tiempo_spritesheet_0: 219170522185273886
+      maquina del tiempo_spritesheet_1: 27482195744473101
+      maquina del tiempo_spritesheet_10: -6067421587919040380
+      maquina del tiempo_spritesheet_11: 7803573203965847945
+      maquina del tiempo_spritesheet_12: -5255528041884713182
+      maquina del tiempo_spritesheet_13: 8612674117535832452
+      maquina del tiempo_spritesheet_14: 1914126096625656198
+      maquina del tiempo_spritesheet_15: -3575602726026562262
+      maquina del tiempo_spritesheet_16: 3418623390915848130
+      maquina del tiempo_spritesheet_2: 4791970391778966866
+      maquina del tiempo_spritesheet_3: 7225552447203264197
+      maquina del tiempo_spritesheet_4: 6102349821973420507
+      maquina del tiempo_spritesheet_5: 7857891760871306438
+      maquina del tiempo_spritesheet_6: 4873141803842181456
+      maquina del tiempo_spritesheet_7: 7713938138089913564
+      maquina del tiempo_spritesheet_8: 5354676992849146844
+      maquina del tiempo_spritesheet_9: -6259878832396919830
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,22 +1,34 @@
 fileFormatVersion: 2
-guid: 71510f6e4e4fd5849a74ea2ca4343833
+guid: 9fbe58dc03bd3764b8a12fa413cab8f1
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1102011078175751975
-    second: hearts-spritesheet_0
+      213: 8975673510261865771
+    second: battery_bar_fill_0
   - first:
-      213: 4672015555972736730
-    second: hearts-spritesheet_1
+      213: -7366990684179295867
+    second: battery_bar_fill_1
   - first:
-      213: -1115089251380960089
-    second: hearts-spritesheet_2
+      213: 3907618993511743126
+    second: battery_bar_fill_2
   - first:
-      213: -2231579147350382289
-    second: hearts-spritesheet_3
+      213: -1114743677422254690
+    second: battery_bar_fill_3
   - first:
-      213: -4695995843240976310
-    second: hearts-spritesheet_4
+      213: -6898582391074350442
+    second: battery_bar_fill_4
+  - first:
+      213: 1950404808198565080
+    second: battery_bar_fill_5
+  - first:
+      213: -1133175339336741537
+    second: battery_bar_fill_6
+  - first:
+      213: -561428045706687491
+    second: battery_bar_fill_7
+  - first:
+      213: -2545417002290169832
+    second: battery_bar_fill_8
   externalObjects: {}
   serializedVersion: 12
   mipmaps:
@@ -63,7 +75,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 15
+  spritePixelsToUnits: 10
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -110,106 +122,22 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: hearts-spritesheet_0
+      name: battery_bar_fill_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 17
-        height: 13
+        width: 48
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 72ff535ac312b4f00800000000000000
-      internalID: 1102011078175751975
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: hearts-spritesheet_1
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 0
-        width: 18
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ad6aade056556d040800000000000000
-      internalID: 4672015555972736730
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: hearts-spritesheet_2
-      rect:
-        serializedVersion: 2
-        x: 33
-        y: 0
-        width: 18
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7a4e49edb386680f0800000000000000
-      internalID: -1115089251380960089
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: hearts-spritesheet_3
-      rect:
-        serializedVersion: 2
-        x: 50
-        y: 0
-        width: 18
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f29e202c696d701e0800000000000000
-      internalID: -2231579147350382289
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: hearts-spritesheet_4
-      rect:
-        serializedVersion: 2
-        x: 67
-        y: 0
-        width: 17
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a4029e839a874deb0800000000000000
-      internalID: -4695995843240976310
+      spriteID: 334e3ad12af577240bcc5cbc8500c6ec
+      internalID: -2067314219
       vertices: []
       indices: 
       edges: []
@@ -217,7 +145,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 167bfbfe54ed7f94ca03203948ba1975
     internalID: 0
     vertices: []
     indices: 
@@ -225,11 +153,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      hearts-spritesheet_0: 1102011078175751975
-      hearts-spritesheet_1: 4672015555972736730
-      hearts-spritesheet_2: -1115089251380960089
-      hearts-spritesheet_3: -2231579147350382289
-      hearts-spritesheet_4: -4695995843240976310
+      battery_bar_fill_0: -2067314219
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

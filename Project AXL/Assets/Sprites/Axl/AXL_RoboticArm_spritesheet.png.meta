@@ -1,0 +1,1637 @@
+fileFormatVersion: 2
+guid: 326372ee210e54841a26f931d633f7d4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4636619791134663189
+    second: AXL_RoboticArm_spritesheet_0
+  - first:
+      213: -7371279769026146324
+    second: AXL_RoboticArm_spritesheet_1
+  - first:
+      213: -8470256743312923346
+    second: AXL_RoboticArm_spritesheet_2
+  - first:
+      213: -1937524076640232967
+    second: AXL_RoboticArm_spritesheet_3
+  - first:
+      213: 2786053791240486285
+    second: AXL_RoboticArm_spritesheet_4
+  - first:
+      213: 1896275851249280740
+    second: AXL_RoboticArm_spritesheet_5
+  - first:
+      213: -5194988005878397222
+    second: AXL_RoboticArm_spritesheet_6
+  - first:
+      213: 4953725977142551124
+    second: AXL_RoboticArm_spritesheet_7
+  - first:
+      213: 7285922960654629890
+    second: AXL_RoboticArm_spritesheet_8
+  - first:
+      213: 1919803670373705103
+    second: AXL_RoboticArm_spritesheet_9
+  - first:
+      213: 6312781318302762588
+    second: AXL_RoboticArm_spritesheet_10
+  - first:
+      213: -3758162133175325233
+    second: AXL_RoboticArm_spritesheet_11
+  - first:
+      213: -119854482499181804
+    second: AXL_RoboticArm_spritesheet_12
+  - first:
+      213: -6054082746542856281
+    second: AXL_RoboticArm_spritesheet_13
+  - first:
+      213: -4881663692613341825
+    second: AXL_RoboticArm_spritesheet_14
+  - first:
+      213: 8344290429573337679
+    second: AXL_RoboticArm_spritesheet_15
+  - first:
+      213: -5862093254063316483
+    second: AXL_RoboticArm_spritesheet_16
+  - first:
+      213: -4500616272848237873
+    second: AXL_RoboticArm_spritesheet_17
+  - first:
+      213: -3534958249544687849
+    second: AXL_RoboticArm_spritesheet_18
+  - first:
+      213: 8903526000900887951
+    second: AXL_RoboticArm_spritesheet_19
+  - first:
+      213: 1019573195799247668
+    second: AXL_RoboticArm_spritesheet_20
+  - first:
+      213: -3050784079765519275
+    second: AXL_RoboticArm_spritesheet_21
+  - first:
+      213: 887309543682445062
+    second: AXL_RoboticArm_spritesheet_22
+  - first:
+      213: -6394315554012814182
+    second: AXL_RoboticArm_spritesheet_23
+  - first:
+      213: 626640760024758747
+    second: AXL_RoboticArm_spritesheet_24
+  - first:
+      213: 8658252900343681035
+    second: AXL_RoboticArm_spritesheet_25
+  - first:
+      213: -7204789216948723806
+    second: AXL_RoboticArm_spritesheet_26
+  - first:
+      213: -1351074357633974066
+    second: AXL_RoboticArm_spritesheet_27
+  - first:
+      213: 195297795229250022
+    second: AXL_RoboticArm_spritesheet_28
+  - first:
+      213: -5493217771930908118
+    second: AXL_RoboticArm_spritesheet_29
+  - first:
+      213: 219339363858840343
+    second: AXL_RoboticArm_spritesheet_30
+  - first:
+      213: 4598181394331435042
+    second: AXL_RoboticArm_spritesheet_31
+  - first:
+      213: 6755164489323333793
+    second: AXL_RoboticArm_spritesheet_32
+  - first:
+      213: 2372606766851306578
+    second: AXL_RoboticArm_spritesheet_33
+  - first:
+      213: 7741497698963279745
+    second: AXL_RoboticArm_spritesheet_34
+  - first:
+      213: -2555275575133503044
+    second: AXL_RoboticArm_spritesheet_35
+  - first:
+      213: -5233355176459110229
+    second: AXL_RoboticArm_spritesheet_36
+  - first:
+      213: 7154503335398392223
+    second: AXL_RoboticArm_spritesheet_37
+  - first:
+      213: -2456764809682232885
+    second: AXL_RoboticArm_spritesheet_38
+  - first:
+      213: -5757558220177811252
+    second: AXL_RoboticArm_spritesheet_39
+  - first:
+      213: -5562633479214156156
+    second: AXL_RoboticArm_spritesheet_40
+  - first:
+      213: 4781075303859338751
+    second: AXL_RoboticArm_spritesheet_41
+  - first:
+      213: -4600013289271851873
+    second: AXL_RoboticArm_spritesheet_42
+  - first:
+      213: -1810041898150026413
+    second: AXL_RoboticArm_spritesheet_43
+  - first:
+      213: -7327614780286257052
+    second: AXL_RoboticArm_spritesheet_44
+  - first:
+      213: -421497014012606366
+    second: AXL_RoboticArm_spritesheet_45
+  - first:
+      213: 298517252033108424
+    second: AXL_RoboticArm_spritesheet_46
+  - first:
+      213: -5340093515693130491
+    second: AXL_RoboticArm_spritesheet_47
+  - first:
+      213: -8241551082206164086
+    second: AXL_RoboticArm_spritesheet_48
+  - first:
+      213: 1276442014137201628
+    second: AXL_RoboticArm_spritesheet_49
+  - first:
+      213: 7668809004456287580
+    second: AXL_RoboticArm_spritesheet_50
+  - first:
+      213: 7181092034088425542
+    second: AXL_RoboticArm_spritesheet_51
+  - first:
+      213: -3613844725474206861
+    second: AXL_RoboticArm_spritesheet_52
+  - first:
+      213: 373554926171843541
+    second: AXL_RoboticArm_spritesheet_53
+  - first:
+      213: -6078020752674891997
+    second: AXL_RoboticArm_spritesheet_54
+  - first:
+      213: -1700926416408437555
+    second: AXL_RoboticArm_spritesheet_55
+  - first:
+      213: -1723205457859126047
+    second: AXL_RoboticArm_spritesheet_56
+  - first:
+      213: -6779366855714769553
+    second: AXL_RoboticArm_spritesheet_57
+  - first:
+      213: 3924399931511509220
+    second: AXL_RoboticArm_spritesheet_58
+  - first:
+      213: -6527488518220343641
+    second: AXL_RoboticArm_spritesheet_59
+  - first:
+      213: 2664925867434889675
+    second: AXL_RoboticArm_spritesheet_60
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 17
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: idle1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 217
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bed5fd6adda67afb0800000000000000
+      internalID: -4636619791134663189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: down1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 181
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef4c23da14f3b990800000000000000
+      internalID: -7371279769026146324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 217
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e25e97a8e5a937a80800000000000000
+      internalID: -8470256743312923346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: down2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 181
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f997142e188c15e0800000000000000
+      internalID: -1937524076640232967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle3
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 217
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8df408792d0aa620800000000000000
+      internalID: 2786053791240486285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: down3
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 181
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e66dddf6dce05a10800000000000000
+      internalID: 1896275851249280740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle4
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 217
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad60431dee1b7e7b0800000000000000
+      internalID: -5194988005878397222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: down4
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 181
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 452e43eb78b2fb440800000000000000
+      internalID: 4953725977142551124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle5
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 217
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20c7eaa845ccc1560800000000000000
+      internalID: 7285922960654629890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downShoot1
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 181
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f85ad13444384aa10800000000000000
+      internalID: 1919803670373705103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle6
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 217
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c56882699218b9750800000000000000
+      internalID: 6312781318302762588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downShoot2
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 181
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcda2c3937358dbc0800000000000000
+      internalID: -3758162133175325233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downShoot3
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 181
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 413e5e1bbf0365ef0800000000000000
+      internalID: -119854482499181804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downShoot4
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 181
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a7ed7361d39bfba0800000000000000
+      internalID: -6054082746542856281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downShoot5
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 181
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d2cd85cb8d04cb0800000000000000
+      internalID: -4881663692613341825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downShoot6
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 181
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f42196d8fefdcc370800000000000000
+      internalID: 8344290429573337679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downShoot7
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 180
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df1a75f7e39a5aea0800000000000000
+      internalID: -5862093254063316483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: up1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 143
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcac98a58599a81c0800000000000000
+      internalID: -4500616272848237873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horizontal1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 108
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71f5d08733e41fec0800000000000000
+      internalID: -3534958249544687849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: up2
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 144
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f85d62499bdaf8b70800000000000000
+      internalID: 8903526000900887951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: up3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 143
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43bbf1e6b60462e00800000000000000
+      internalID: 1019573195799247668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horizontal3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 108
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 554c82f0b0079a5d0800000000000000
+      internalID: -3050784079765519275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: up4
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 144
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f810d245b505c00800000000000000
+      internalID: 887309543682445062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upShoot1
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 144
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a94af45d1e3d247a0800000000000000
+      internalID: -6394315554012814182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horizontalShoot1
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 108
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd97e0f737642b800800000000000000
+      internalID: 626640760024758747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upShoot2
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 143
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b001b74b32b482870800000000000000
+      internalID: 8658252900343681035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upShoot3
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 144
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2afd43a3162730c90800000000000000
+      internalID: -7204789216948723806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horizontalShoot3
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 108
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec08610b705004de0800000000000000
+      internalID: -1351074357633974066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upShoot4
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 143
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e17e0e5f46d5b200800000000000000
+      internalID: 195297795229250022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upShoot5
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 144
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a023e6a8b24c3b0800000000000000
+      internalID: -5493217771930908118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horizontalShoot5
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 108
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71bf0144dff3b0300800000000000000
+      internalID: 219339363858840343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upShoot6
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 143
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2208fedad9500df30800000000000000
+      internalID: 4598181394331435042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upShoot7
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 144
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a84379005a2fbd50800000000000000
+      internalID: 6755164489323333793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horizontalShoot7
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 108
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2543cd9a8413de020800000000000000
+      internalID: 2372606766851306578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upShoot8
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 143
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18fc53814235f6b60800000000000000
+      internalID: 7741497698963279745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upShoot9
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 144
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb18fe02766d98cd0800000000000000
+      internalID: -2555275575133503044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downShootStatic1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 71
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8f3bbc1336f57b0800000000000000
+      internalID: -5233355176459110229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downShootStatic2
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 71
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f91c4ca90e6e94360800000000000000
+      internalID: 7154503335398392223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horizontal2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 108
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc9d53e0c61d7edd0800000000000000
+      internalID: -2456764809682232885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downShootStatic3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 71
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc8dba8bd4b0910b0800000000000000
+      internalID: -5757558220177811252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horizontal4
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 108
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 486bebf925e8dc2b0800000000000000
+      internalID: -5562633479214156156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horizontalShoot2
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 108
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffdbdea58aac95240800000000000000
+      internalID: 4781075303859338751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horizontalShoot4
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 108
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9400ea09487920c0800000000000000
+      internalID: -4600013289271851873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horizontalShoot6
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 108
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 353a130db7071e6e0800000000000000
+      internalID: -1810041898150026413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upShootStatic1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 36
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 468b2224e251f4a90800000000000000
+      internalID: -7327614780286257052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upShootStatic2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 36
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26804ede2ba862af0800000000000000
+      internalID: -421497014012606366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upShootStatic3
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 36
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c952ceebdb842400800000000000000
+      internalID: 298517252033108424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upShootStatic4
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 36
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50d7eb19d3d24e5b0800000000000000
+      internalID: -5340093515693130491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upShootStatic5
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 36
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b8dd2d4f020ad80800000000000000
+      internalID: -8241551082206164086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upShootStatic6
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 35
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd3380dbf35d6b110800000000000000
+      internalID: 1276442014137201628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upShootStatic7
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 36
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d1fe098251d6a60800000000000000
+      internalID: 7668809004456287580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upShootStatic8
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 36
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6485a3f682d58a360800000000000000
+      internalID: 7181092034088425542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upShootStatic9
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 36
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37bd0b08e5b09ddc0800000000000000
+      internalID: -3613844725474206861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horizontalShootStatic1
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 0
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dbe196e9322f2500800000000000000
+      internalID: 373554926171843541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horizontalShootStatic2
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 0
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3275c53045886aba0800000000000000
+      internalID: -6078020752674891997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horizontalShootStatic3
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 0
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc95e8af681568e0800000000000000
+      internalID: -1700926416408437555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horizontalShootStatic4
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 0
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ecda4914c1f518e0800000000000000
+      internalID: -1723205457859126047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horizontalShootStatic5
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 0
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f65701b63c9dae1a0800000000000000
+      internalID: -6779366855714769553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horizontalShootStatic6
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 0
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e09f4202f4467630800000000000000
+      internalID: 3924399931511509220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horizontalShootStatic7
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 0
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a6190cd6c3b965a0800000000000000
+      internalID: -6527488518220343641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horizontalShootStatic8
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 0
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc1d43105f7bbf420800000000000000
+      internalID: 2664925867434889675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 39e3d9dc5b55e89468a6de0786913b27
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      down1: -7371279769026146324
+      down2: -1937524076640232967
+      down3: 1896275851249280740
+      down4: 4953725977142551124
+      downShoot1: 1919803670373705103
+      downShoot2: -3758162133175325233
+      downShoot3: -119854482499181804
+      downShoot4: -6054082746542856281
+      downShoot5: -4881663692613341825
+      downShoot6: 8344290429573337679
+      downShoot7: -5862093254063316483
+      downShootStatic1: -5233355176459110229
+      downShootStatic2: 7154503335398392223
+      downShootStatic3: -5757558220177811252
+      horizontal1: -3534958249544687849
+      horizontal2: -2456764809682232885
+      horizontal3: -3050784079765519275
+      horizontal4: -5562633479214156156
+      horizontalShoot1: 626640760024758747
+      horizontalShoot2: 4781075303859338751
+      horizontalShoot3: -1351074357633974066
+      horizontalShoot4: -4600013289271851873
+      horizontalShoot5: 219339363858840343
+      horizontalShoot6: -1810041898150026413
+      horizontalShoot7: 2372606766851306578
+      horizontalShootStatic1: 373554926171843541
+      horizontalShootStatic2: -6078020752674891997
+      horizontalShootStatic3: -1700926416408437555
+      horizontalShootStatic4: -1723205457859126047
+      horizontalShootStatic5: -6779366855714769553
+      horizontalShootStatic6: 3924399931511509220
+      horizontalShootStatic7: -6527488518220343641
+      horizontalShootStatic8: 2664925867434889675
+      idle1: -4636619791134663189
+      idle2: -8470256743312923346
+      idle3: 2786053791240486285
+      idle4: -5194988005878397222
+      idle5: 7285922960654629890
+      idle6: 6312781318302762588
+      up1: -4500616272848237873
+      up2: 8903526000900887951
+      up3: 1019573195799247668
+      up4: 887309543682445062
+      upShoot1: -6394315554012814182
+      upShoot2: 8658252900343681035
+      upShoot3: -7204789216948723806
+      upShoot4: 195297795229250022
+      upShoot5: -5493217771930908118
+      upShoot6: 4598181394331435042
+      upShoot7: 6755164489323333793
+      upShoot8: 7741497698963279745
+      upShoot9: -2555275575133503044
+      upShootStatic1: -7327614780286257052
+      upShootStatic2: -421497014012606366
+      upShootStatic3: 298517252033108424
+      upShootStatic4: -5340093515693130491
+      upShootStatic5: -8241551082206164086
+      upShootStatic6: 1276442014137201628
+      upShootStatic7: 7668809004456287580
+      upShootStatic8: 7181092034088425542
+      upShootStatic9: -3613844725474206861
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
