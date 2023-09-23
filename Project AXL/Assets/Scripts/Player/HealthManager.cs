@@ -6,8 +6,8 @@ public class HealthManager : MonoBehaviour
     public int health = 300; // Establece la cantidad de vida del jugador
 
     public Image[] hearts; // Crea un array (lista) con los sprites de los corazones
-    public Sprite heart0; // Crea una variable que almacena el sprite del corazón lleno
-    public Sprite heart25; // Crea una variable que almacena el sprite del corazón vacío
+    public Sprite heart0; // Corazón lleno
+    public Sprite heart25; // Corazón vacío
     public Sprite heart50;
     public Sprite heart75;
     public Sprite heart100;
@@ -33,10 +33,10 @@ public class HealthManager : MonoBehaviour
                 break;
         }
     }
-
     // Update is called once per frame
     void Update()
     {
+        health = FindAnyObjectByType<PlayerController>().GetComponent<HealthController>().currentHealth;
         // Todos los corazones inician vacíos
         foreach (Image heart in hearts)
         {

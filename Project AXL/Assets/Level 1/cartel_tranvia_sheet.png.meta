@@ -1,0 +1,762 @@
+fileFormatVersion: 2
+guid: d109753971dc7d34785e4001648e6907
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5920843835099395282
+    second: cartel_tranvia_sheet_0
+  - first:
+      213: 3098862653091142008
+    second: cartel_tranvia_sheet_1
+  - first:
+      213: 3268314140077108159
+    second: cartel_tranvia_sheet_2
+  - first:
+      213: 714881480337307879
+    second: cartel_tranvia_sheet_3
+  - first:
+      213: -6110733937525141680
+    second: cartel_tranvia_sheet_4
+  - first:
+      213: 3231327411357942943
+    second: cartel_tranvia_sheet_5
+  - first:
+      213: -1157541896669135631
+    second: cartel_tranvia_sheet_6
+  - first:
+      213: 8622305580168974525
+    second: cartel_tranvia_sheet_7
+  - first:
+      213: -5492675634546515195
+    second: cartel_tranvia_sheet_8
+  - first:
+      213: -5177118864796204214
+    second: cartel_tranvia_sheet_9
+  - first:
+      213: 4247415960875408135
+    second: cartel_tranvia_sheet_10
+  - first:
+      213: 755638254573518421
+    second: cartel_tranvia_sheet_11
+  - first:
+      213: 4224982687976701539
+    second: cartel_tranvia_sheet_12
+  - first:
+      213: 8125441406305872292
+    second: cartel_tranvia_sheet_13
+  - first:
+      213: -2099748486513607083
+    second: cartel_tranvia_sheet_14
+  - first:
+      213: 5384547684432351421
+    second: cartel_tranvia_sheet_15
+  - first:
+      213: -3470772720454164831
+    second: cartel_tranvia_sheet_16
+  - first:
+      213: 2955577591656801312
+    second: cartel_tranvia_sheet_17
+  - first:
+      213: -5353700824544375044
+    second: cartel_tranvia_sheet_18
+  - first:
+      213: -6348647671411441603
+    second: cartel_tranvia_sheet_19
+  - first:
+      213: 1003680120400046658
+    second: cartel_tranvia_sheet_20
+  - first:
+      213: -8257363552979527863
+    second: cartel_tranvia_sheet_21
+  - first:
+      213: -214986590921026324
+    second: cartel_tranvia_sheet_22
+  - first:
+      213: 7406486758327696378
+    second: cartel_tranvia_sheet_23
+  - first:
+      213: -1342433085156807330
+    second: cartel_tranvia_sheet_24
+  - first:
+      213: 2229672583078872111
+    second: cartel_tranvia_sheet_25
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cartel_tranvia_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6
+        width: 92
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2bc656e6efe4dda0800000000000000
+      internalID: -5920843835099395282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartel_tranvia_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 7
+        width: 92
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 879d83d1a2f510b20800000000000000
+      internalID: 3098862653091142008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartel_tranvia_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 6
+        width: 92
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbbaea5e4626b5d20800000000000000
+      internalID: 3268314140077108159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartel_tranvia_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 8
+        width: 93
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e8b2043be4cbe900800000000000000
+      internalID: 714881480337307879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartel_tranvia_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 8
+        width: 92
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05fc3e02cdf423ba0800000000000000
+      internalID: -6110733937525141680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartel_tranvia_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 6
+        width: 93
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9409fa092bf7dc20800000000000000
+      internalID: 3231327411357942943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartel_tranvia_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 5
+        width: 92
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fc776427c59fefe0800000000000000
+      internalID: -1157541896669135631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartel_tranvia_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 3
+        width: 93
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db017d20e3598a770800000000000000
+      internalID: 8622305580168974525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartel_tranvia_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 3
+        width: 92
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5036960ac9816c3b0800000000000000
+      internalID: -5492675634546515195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartel_tranvia_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 6
+        width: 92
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4349df62dd2728b0800000000000000
+      internalID: -5177118864796204214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartel_tranvia_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 7
+        width: 92
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b9d49005ad1fa30800000000000000
+      internalID: 4247415960875408135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartel_tranvia_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 6
+        width: 92
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55efc8e2df09c7a00800000000000000
+      internalID: 755638254573518421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartel_tranvia_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 8
+        width: 93
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36eb60bae5722aa30800000000000000
+      internalID: 4224982687976701539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartel_tranvia_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 8
+        width: 92
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a9ac1a98ed53c070800000000000000
+      internalID: 8125441406305872292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartel_tranvia_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1889
+        y: 6
+        width: 93
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e31bf50e13cd2e0800000000000000
+      internalID: -2099748486513607083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartel_tranvia_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 5
+        width: 92
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db01eb62791c9ba40800000000000000
+      internalID: 5384547684432351421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartel_tranvia_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 2159
+        y: 3
+        width: 93
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae9635899655dfc0800000000000000
+      internalID: -3470772720454164831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartel_tranvia_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 2295
+        y: 3
+        width: 92
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 024eec80922540920800000000000000
+      internalID: 2955577591656801312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartel_tranvia_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 6
+        width: 92
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe01571775d3b5b0800000000000000
+      internalID: -5353700824544375044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartel_tranvia_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 2565
+        y: 7
+        width: 92
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d300965549215e7a0800000000000000
+      internalID: -6348647671411441603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartel_tranvia_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 6
+        width: 92
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24ae09470c9cded00800000000000000
+      internalID: 1003680120400046658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartel_tranvia_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 2834
+        y: 8
+        width: 93
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 947d5631993f76d80800000000000000
+      internalID: -8257363552979527863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartel_tranvia_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 2970
+        y: 8
+        width: 92
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce41ea8a5d6340df0800000000000000
+      internalID: -214986590921026324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartel_tranvia_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 3104
+        y: 6
+        width: 93
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afbb1c7277029c660800000000000000
+      internalID: 7406486758327696378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartel_tranvia_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 5
+        width: 92
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d2f78b838be5de0800000000000000
+      internalID: -1342433085156807330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartel_tranvia_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 3374
+        y: 3
+        width: 93
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2408d7a66361fe10800000000000000
+      internalID: 2229672583078872111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      cartel_tranvia_sheet_0: -5920843835099395282
+      cartel_tranvia_sheet_1: 3098862653091142008
+      cartel_tranvia_sheet_10: 4247415960875408135
+      cartel_tranvia_sheet_11: 755638254573518421
+      cartel_tranvia_sheet_12: 4224982687976701539
+      cartel_tranvia_sheet_13: 8125441406305872292
+      cartel_tranvia_sheet_14: -2099748486513607083
+      cartel_tranvia_sheet_15: 5384547684432351421
+      cartel_tranvia_sheet_16: -3470772720454164831
+      cartel_tranvia_sheet_17: 2955577591656801312
+      cartel_tranvia_sheet_18: -5353700824544375044
+      cartel_tranvia_sheet_19: -6348647671411441603
+      cartel_tranvia_sheet_2: 3268314140077108159
+      cartel_tranvia_sheet_20: 1003680120400046658
+      cartel_tranvia_sheet_21: -8257363552979527863
+      cartel_tranvia_sheet_22: -214986590921026324
+      cartel_tranvia_sheet_23: 7406486758327696378
+      cartel_tranvia_sheet_24: -1342433085156807330
+      cartel_tranvia_sheet_25: 2229672583078872111
+      cartel_tranvia_sheet_3: 714881480337307879
+      cartel_tranvia_sheet_4: -6110733937525141680
+      cartel_tranvia_sheet_5: 3231327411357942943
+      cartel_tranvia_sheet_6: -1157541896669135631
+      cartel_tranvia_sheet_7: 8622305580168974525
+      cartel_tranvia_sheet_8: -5492675634546515195
+      cartel_tranvia_sheet_9: -5177118864796204214
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

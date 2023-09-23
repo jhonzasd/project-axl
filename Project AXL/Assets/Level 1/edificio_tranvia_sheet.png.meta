@@ -1,0 +1,762 @@
+fileFormatVersion: 2
+guid: d100a337a6098c14f8f783ddbdf023f2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 659095851372906944
+    second: edificio_tranvia_sheet_0
+  - first:
+      213: 9205644586999332447
+    second: edificio_tranvia_sheet_1
+  - first:
+      213: 4991649092818415579
+    second: edificio_tranvia_sheet_2
+  - first:
+      213: 3685003900486532870
+    second: edificio_tranvia_sheet_3
+  - first:
+      213: 6196690694218812698
+    second: edificio_tranvia_sheet_4
+  - first:
+      213: -6455586641548318795
+    second: edificio_tranvia_sheet_5
+  - first:
+      213: -6774004902138247110
+    second: edificio_tranvia_sheet_6
+  - first:
+      213: 2930326682753909743
+    second: edificio_tranvia_sheet_7
+  - first:
+      213: -2365398449679793453
+    second: edificio_tranvia_sheet_8
+  - first:
+      213: 7869104513936038034
+    second: edificio_tranvia_sheet_9
+  - first:
+      213: -2839156305301851798
+    second: edificio_tranvia_sheet_10
+  - first:
+      213: 7347633191045941858
+    second: edificio_tranvia_sheet_11
+  - first:
+      213: 1149742563938609896
+    second: edificio_tranvia_sheet_12
+  - first:
+      213: -465487503364456437
+    second: edificio_tranvia_sheet_13
+  - first:
+      213: 7449609774936071292
+    second: edificio_tranvia_sheet_14
+  - first:
+      213: 6387807999655725719
+    second: edificio_tranvia_sheet_15
+  - first:
+      213: -4348738433619033006
+    second: edificio_tranvia_sheet_16
+  - first:
+      213: 4198248502942902591
+    second: edificio_tranvia_sheet_17
+  - first:
+      213: 2917731755204843331
+    second: edificio_tranvia_sheet_18
+  - first:
+      213: -900091211601403004
+    second: edificio_tranvia_sheet_19
+  - first:
+      213: -7816957312558229910
+    second: edificio_tranvia_sheet_20
+  - first:
+      213: 3352694219099321729
+    second: edificio_tranvia_sheet_21
+  - first:
+      213: -2348433382113003487
+    second: edificio_tranvia_sheet_22
+  - first:
+      213: -1951572654786026991
+    second: edificio_tranvia_sheet_23
+  - first:
+      213: -4823674247445873527
+    second: edificio_tranvia_sheet_24
+  - first:
+      213: -3565353327066510602
+    second: edificio_tranvia_sheet_25
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: idle1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 136
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c9040e4f24952900800000000000000
+      internalID: 659095851372906944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle2
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 3
+        width: 136
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5eb7907af401cf70800000000000000
+      internalID: 9205644586999332447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificio_tranvia_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 3
+        width: 136
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdfa7dc2766e54540800000000000000
+      internalID: 4991649092818415579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificio_tranvia_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 3
+        width: 136
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60fbd640683c32330800000000000000
+      internalID: 3685003900486532870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificio_tranvia_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 3
+        width: 136
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d81ebda511ff550800000000000000
+      internalID: 6196690694218812698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: open1
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 3
+        width: 136
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b761c517262966a0800000000000000
+      internalID: -6455586641548318795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: open2
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 3
+        width: 136
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a388b458e66edf1a0800000000000000
+      internalID: -6774004902138247110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: open3
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 3
+        width: 136
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe34569a79c9aa820800000000000000
+      internalID: 2930326682753909743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: open4
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 3
+        width: 136
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d2839674aa6c2fd0800000000000000
+      internalID: -2365398449679793453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: open5
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 3
+        width: 136
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2989495fcdca43d60800000000000000
+      internalID: 7869104513936038034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: open6
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 3
+        width: 136
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a613ca0026a4998d0800000000000000
+      internalID: -2839156305301851798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: open7
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 3
+        width: 136
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26ac924357908f560800000000000000
+      internalID: 7347633191045941858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: open8
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 3
+        width: 136
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ea25b235c4b4ff00800000000000000
+      internalID: 1149742563938609896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: open9
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 3
+        width: 136
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b00049af4914a89f0800000000000000
+      internalID: -465487503364456437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: open10
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 3
+        width: 136
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c975ede94526760800000000000000
+      internalID: 7449609774936071292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: close1
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 3
+        width: 136
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ac0e8188d06a850800000000000000
+      internalID: 6387807999655725719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: close2
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 3
+        width: 136
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2548c0b6f6d26a3c0800000000000000
+      internalID: -4348738433619033006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: close3
+      rect:
+        serializedVersion: 2
+        x: 2295
+        y: 3
+        width: 136
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f392ab825cc234a30800000000000000
+      internalID: 4198248502942902591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: close4
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 3
+        width: 136
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3479cd2929ddd7820800000000000000
+      internalID: 2917731755204843331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: close5
+      rect:
+        serializedVersion: 2
+        x: 2565
+        y: 3
+        width: 136
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4832c0bdfcb3283f0800000000000000
+      internalID: -900091211601403004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: close6
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 3
+        width: 136
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6613908db6948390800000000000000
+      internalID: -7816957312558229910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: close7
+      rect:
+        serializedVersion: 2
+        x: 2835
+        y: 3
+        width: 136
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 185bbe101a9278e20800000000000000
+      internalID: 3352694219099321729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: close8
+      rect:
+        serializedVersion: 2
+        x: 2970
+        y: 3
+        width: 136
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1283c701840b86fd0800000000000000
+      internalID: -2348433382113003487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: close9
+      rect:
+        serializedVersion: 2
+        x: 3105
+        y: 3
+        width: 136
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 112ec16a20f9ae4e0800000000000000
+      internalID: -1951572654786026991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: close10
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 3
+        width: 136
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98cf9c034ddde0db0800000000000000
+      internalID: -4823674247445873527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: close11
+      rect:
+        serializedVersion: 2
+        x: 3375
+        y: 3
+        width: 135
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fa81710a02558ec0800000000000000
+      internalID: -3565353327066510602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 0962d7f19baae7549af40b478e02f3a8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      close1: 6387807999655725719
+      close10: -4823674247445873527
+      close11: -3565353327066510602
+      close2: -4348738433619033006
+      close3: 4198248502942902591
+      close4: 2917731755204843331
+      close5: -900091211601403004
+      close6: -7816957312558229910
+      close7: 3352694219099321729
+      close8: -2348433382113003487
+      close9: -1951572654786026991
+      edificio_tranvia_sheet_2: 4991649092818415579
+      edificio_tranvia_sheet_3: 3685003900486532870
+      edificio_tranvia_sheet_4: 6196690694218812698
+      idle1: 659095851372906944
+      idle2: 9205644586999332447
+      open1: -6455586641548318795
+      open10: 7449609774936071292
+      open2: -6774004902138247110
+      open3: 2930326682753909743
+      open4: -2365398449679793453
+      open5: 7869104513936038034
+      open6: -2839156305301851798
+      open7: 7347633191045941858
+      open8: 1149742563938609896
+      open9: -465487503364456437
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
