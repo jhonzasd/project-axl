@@ -18,7 +18,7 @@ public class HealthController : MonoBehaviour
     {
         if(currentHealth <= 0)
         {
-            gameObject.SetActive(false);
+            
         }
         
     }

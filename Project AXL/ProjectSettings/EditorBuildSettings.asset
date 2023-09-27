@@ -9,7 +9,10 @@ EditorBuildSettings:
     path: Assets/Scenes/MainMenu.unity
     guid: 0f455077e60c7384cb324c4fa55b4ac2
   - enabled: 1
-    path: Assets/Scenes/GameScene.unity
+    path: Assets/Scenes/Level 1.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/InsideTranvia.unity
+    guid: 95cb1752aaad943468ffc17b89e2abc3
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0

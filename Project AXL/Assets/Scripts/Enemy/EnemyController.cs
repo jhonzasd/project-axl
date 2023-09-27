@@ -13,18 +13,24 @@ public class EnemyController : MonoBehaviour
     const string STATE_DOWN = "isMovingDown";
     const string STATE_HORIZONTAL = "isMovingHorizontal";
 
+    public GameObject batteryToInstance;
+
     private void Start()
     {
         animator = GetComponent<Animator>();
         // Utiliza FindObjectOfType para encontrar el objeto PlayerController
         player = FindAnyObjectByType<PlayerController>().transform;
         sprite = GetComponent<SpriteRenderer>();
+        
+        
     }
 
     private void Update()
     {
         transform.position = Vector3.MoveTowards(transform.position, player.position, speed * Time.deltaTime);
         Animation();
+        Die();
+        life = GetComponent<HealthController>().currentHealth;
     }
 
     void Animation()
@@ -34,7 +40,7 @@ public class EnemyController : MonoBehaviour
 
         bool isUp = direction.y > 0;
         bool isDown = direction.y < 0;
-        bool isRight = direction.x > 0;
+        bool isRight = direction.x > 0; 
         bool isLeft = direction.x < 0;
 
         if (Mathf.Abs(direction.x) > Mathf.Abs(direction.y))
@@ -59,6 +65,16 @@ public class EnemyController : MonoBehaviour
         {
             // TODO: Reproducir animación de morir
             Destroy(gameObject);
+            DropBattery();
         }
+
+    }
+    
+    public void DropBattery()
+    {
+        Vector3 thisPosition = transform.position;
+        Quaternion thisRotation = Quaternion.identity;
+
+        GameObject batteryInstance = Instantiate(batteryToInstance, thisPosition, thisRotation);
     }
 }

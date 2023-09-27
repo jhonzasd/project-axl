@@ -11,7 +11,7 @@ public class PlayerController : MonoBehaviour
 
     // Variables de recolección
     public TMP_Text collectedBatteryText; // Texto de cantidad de baterías recolectadas
-    public static int collectedBatteryAmount; // Número de cantidad de baterías recolectadas
+    public static int collectedBatteryAmount = 9; // Número de cantidad de baterías recolectadas
 
     // Variables del disparo
     public GameObject bulletPrefab;

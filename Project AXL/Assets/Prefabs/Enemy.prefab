@@ -164,8 +164,8 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_Sprite: {fileID: 6660506489797946952, guid: c2e4a42090c17ed47bb86bded689f7f9, type: 3}
+  m_SortingOrder: 1
+  m_Sprite: {fileID: 2854314435454925736, guid: 467de60ba96e5904f9c2da0f56141a50, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -218,6 +218,7 @@ MonoBehaviour:
   speed: 1.5
   player: {fileID: 0}
   life: 300
+  batteryToInstance: {fileID: 1062053802408245150, guid: b10c7ceb4a46e4d469dd326f0f5fd47a, type: 3}
 --- !u!95 &-8123227873216675749
 Animator:
   serializedVersion: 7
@@ -228,7 +229,7 @@ Animator:
   m_GameObject: {fileID: 8543646572178555129}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: b7f67f59274b2884db72ffdb5189da6d, type: 2}
+  m_Controller: {fileID: 9100000, guid: 1c1075a0f22b19348827a246c2954028, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0

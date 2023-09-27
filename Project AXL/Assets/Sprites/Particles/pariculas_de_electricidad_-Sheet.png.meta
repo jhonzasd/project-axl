@@ -1,0 +1,539 @@
+fileFormatVersion: 2
+guid: a816ade2de047d84ea5e1bce03559117
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9124914463583904717
+    second: pariculas_de_electricidad_-Sheet_0
+  - first:
+      213: -1289469064653770772
+    second: pariculas_de_electricidad_-Sheet_1
+  - first:
+      213: -2431277841737210198
+    second: pariculas_de_electricidad_-Sheet_2
+  - first:
+      213: -4870095263961655589
+    second: pariculas_de_electricidad_-Sheet_3
+  - first:
+      213: -1415764942673135099
+    second: pariculas_de_electricidad_-Sheet_4
+  - first:
+      213: 6161849295843092314
+    second: pariculas_de_electricidad_-Sheet_5
+  - first:
+      213: 2293985977266599297
+    second: pariculas_de_electricidad_-Sheet_6
+  - first:
+      213: -2112662310204241083
+    second: pariculas_de_electricidad_-Sheet_7
+  - first:
+      213: 6872303656462075470
+    second: pariculas_de_electricidad_-Sheet_8
+  - first:
+      213: -3569123539745679571
+    second: pariculas_de_electricidad_-Sheet_9
+  - first:
+      213: -7220216652849116933
+    second: pariculas_de_electricidad_-Sheet_10
+  - first:
+      213: -4439272021923254751
+    second: pariculas_de_electricidad_-Sheet_11
+  - first:
+      213: 8984854543225004635
+    second: pariculas_de_electricidad_-Sheet_12
+  - first:
+      213: 5884690399145451286
+    second: pariculas_de_electricidad_-Sheet_13
+  - first:
+      213: -7755620653248319111
+    second: pariculas_de_electricidad_-Sheet_14
+  - first:
+      213: -5509968604431955877
+    second: pariculas_de_electricidad_-Sheet_15
+  - first:
+      213: -3711187752051403736
+    second: pariculas_de_electricidad_-Sheet_16
+  - first:
+      213: -5094300487591978431
+    second: pariculas_de_electricidad_-Sheet_17
+  - first:
+      213: -8542005075652164433
+    second: pariculas_de_electricidad_-Sheet_18
+  - first:
+      213: 920686503607286152
+    second: pariculas_de_electricidad_-Sheet_19
+  - first:
+      213: 5911067911950945104
+    second: pariculas_de_electricidad_-Sheet_20
+  - first:
+      213: 188554806263628073
+    second: pariculas_de_electricidad_-Sheet_21
+  - first:
+      213: -1473857510138122270
+    second: pariculas_de_electricidad_-Sheet_22
+  - first:
+      213: -49460454852379931
+    second: pariculas_de_electricidad_-Sheet_23
+  - first:
+      213: -5601588218802511258
+    second: pariculas_de_electricidad_-Sheet_24
+  - first:
+      213: -7937801041574705321
+    second: pariculas_de_electricidad_-Sheet_25
+  - first:
+      213: -5471184939200430675
+    second: pariculas_de_electricidad_-Sheet_26
+  - first:
+      213: 3119856086850030616
+    second: pariculas_de_electricidad_-Sheet_27
+  - first:
+      213: -1780305026147155161
+    second: pariculas_de_electricidad_-Sheet_28
+  - first:
+      213: 5081794466805191817
+    second: pariculas_de_electricidad_-Sheet_29
+  - first:
+      213: -5111882951745056869
+    second: pariculas_de_electricidad_-Sheet_30
+  - first:
+      213: 4835355348172627353
+    second: pariculas_de_electricidad_-Sheet_31
+  - first:
+      213: -7305455150864567293
+    second: pariculas_de_electricidad_-Sheet_32
+  - first:
+      213: 4520374817850381937
+    second: pariculas_de_electricidad_-Sheet_33
+  - first:
+      213: -5379017927000056658
+    second: pariculas_de_electricidad_-Sheet_34
+  - first:
+      213: -5199935837137568640
+    second: pariculas_de_electricidad_-Sheet_35
+  - first:
+      213: 4695950639196654723
+    second: pariculas_de_electricidad_-Sheet_36
+  - first:
+      213: 3661614476262379968
+    second: pariculas_de_electricidad_-Sheet_37
+  - first:
+      213: 2279205338240544497
+    second: pariculas_de_electricidad_-Sheet_38
+  - first:
+      213: -7895152187714090501
+    second: pariculas_de_electricidad_-Sheet_39
+  - first:
+      213: -1036898367173840028
+    second: pariculas_de_electricidad_-Sheet_40
+  - first:
+      213: -3540699313253738355
+    second: pariculas_de_electricidad_-Sheet_41
+  - first:
+      213: 6999571742905257279
+    second: pariculas_de_electricidad_-Sheet_42
+  - first:
+      213: -5110757367327027084
+    second: pariculas_de_electricidad_-Sheet_43
+  - first:
+      213: -3105587778897840580
+    second: pariculas_de_electricidad_-Sheet_44
+  - first:
+      213: -4696754166817216228
+    second: pariculas_de_electricidad_-Sheet_45
+  - first:
+      213: -6265662865108354199
+    second: pariculas_de_electricidad_-Sheet_46
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pariculas_de_electricidad_-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc32eb7db5532ae70800000000000000
+      internalID: 9124914463583904717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pariculas_de_electricidad_-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 0
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cefe474b7b2ea1ee0800000000000000
+      internalID: -1289469064653770772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pariculas_de_electricidad_-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 0
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa6a9f43fad524ed0800000000000000
+      internalID: -2431277841737210198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pariculas_de_electricidad_-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 0
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd6d0490922f96cb0800000000000000
+      internalID: -4870095263961655589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pariculas_de_electricidad_-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 0
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a348229413a5ce0800000000000000
+      internalID: -1415764942673135099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pariculas_de_electricidad_-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 0
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a57e736a949438550800000000000000
+      internalID: 6161849295843092314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pariculas_de_electricidad_-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 0
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 185f3be9710e5df10800000000000000
+      internalID: 2293985977266599297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pariculas_de_electricidad_-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 0
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b8bed72d05ea2e0800000000000000
+      internalID: -2112662310204241083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pariculas_de_electricidad_-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 0
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e464a08b3c35f5f50800000000000000
+      internalID: 6872303656462075470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pariculas_de_electricidad_-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 0
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2759f5fc0de77ec0800000000000000
+      internalID: -3569123539745679571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pariculas_de_electricidad_-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 0
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf881956533accb90800000000000000
+      internalID: -7220216652849116933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pariculas_de_electricidad_-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 0
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12e2fe7cd998462c0800000000000000
+      internalID: -4439272021923254751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pariculas_de_electricidad_-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 0
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b522b7f6a9d90bc70800000000000000
+      internalID: 8984854543225004635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2784196474bb2744aa5cc7e22fe1fe21
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      pariculas_de_electricidad_-Sheet_0: 9124914463583904717
+      pariculas_de_electricidad_-Sheet_1: -1289469064653770772
+      pariculas_de_electricidad_-Sheet_10: -7220216652849116933
+      pariculas_de_electricidad_-Sheet_11: -4439272021923254751
+      pariculas_de_electricidad_-Sheet_12: 8984854543225004635
+      pariculas_de_electricidad_-Sheet_2: -2431277841737210198
+      pariculas_de_electricidad_-Sheet_3: -4870095263961655589
+      pariculas_de_electricidad_-Sheet_4: -1415764942673135099
+      pariculas_de_electricidad_-Sheet_5: 6161849295843092314
+      pariculas_de_electricidad_-Sheet_6: 2293985977266599297
+      pariculas_de_electricidad_-Sheet_7: -2112662310204241083
+      pariculas_de_electricidad_-Sheet_8: 6872303656462075470
+      pariculas_de_electricidad_-Sheet_9: -3569123539745679571
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
