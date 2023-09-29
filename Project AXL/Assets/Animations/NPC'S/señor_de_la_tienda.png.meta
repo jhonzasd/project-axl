@@ -1,0 +1,312 @@
+fileFormatVersion: 2
+guid: 8b0a3dc49d0d58247be9c693f0ffb88a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8061101451317543854
+    second: "se\xF1or_de_la_tienda_0"
+  - first:
+      213: -4170437641128219994
+    second: "se\xF1or_de_la_tienda_1"
+  - first:
+      213: 4128482369704986322
+    second: "se\xF1or_de_la_tienda_2"
+  - first:
+      213: -4938830977199915119
+    second: "se\xF1or_de_la_tienda_3"
+  - first:
+      213: -6210065295262797827
+    second: "se\xF1or_de_la_tienda_4"
+  - first:
+      213: -3758581845243743762
+    second: "se\xF1or_de_la_tienda_5"
+  - first:
+      213: -269963273729450262
+    second: "se\xF1or_de_la_tienda_6"
+  - first:
+      213: -3845821382286916191
+    second: "se\xF1or_de_la_tienda_7"
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 35
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "se\xF1or_de_la_tienda_0"
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 74
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea30b287f09cedf60800000000000000
+      internalID: 8061101451317543854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "se\xF1or_de_la_tienda_1"
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1
+        width: 74
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa62a2bf01af16c0800000000000000
+      internalID: -4170437641128219994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "se\xF1or_de_la_tienda_2"
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 2
+        width: 74
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d68ab377d05b4930800000000000000
+      internalID: 4128482369704986322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "se\xF1or_de_la_tienda_3"
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 3
+        width: 74
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19fbd4ea46fb57bb0800000000000000
+      internalID: -4938830977199915119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "se\xF1or_de_la_tienda_4"
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1
+        width: 74
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dff21eb248a61d9a0800000000000000
+      internalID: -6210065295262797827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "se\xF1or_de_la_tienda_5"
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 0
+        width: 74
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee1b30fb9b5d6dbc0800000000000000
+      internalID: -3758581845243743762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "se\xF1or_de_la_tienda_6"
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 0
+        width: 74
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aee54f635d5e04cf0800000000000000
+      internalID: -269963273729450262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "se\xF1or_de_la_tienda_7"
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 2
+        width: 73
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a5cf2f24d5e0aac0800000000000000
+      internalID: -3845821382286916191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "se\xF1or_de_la_tienda_0": 8061101451317543854
+      "se\xF1or_de_la_tienda_1": -4170437641128219994
+      "se\xF1or_de_la_tienda_2": 4128482369704986322
+      "se\xF1or_de_la_tienda_3": -4938830977199915119
+      "se\xF1or_de_la_tienda_4": -6210065295262797827
+      "se\xF1or_de_la_tienda_5": -3758581845243743762
+      "se\xF1or_de_la_tienda_6": -269963273729450262
+      "se\xF1or_de_la_tienda_7": -3845821382286916191
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

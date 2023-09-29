@@ -1,0 +1,525 @@
+fileFormatVersion: 2
+guid: 79db040c2fc9b314789fc5fdb327f10d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7796745809268050016
+    second: shop_sheet_0
+  - first:
+      213: 6729286329138048172
+    second: shop_sheet_1
+  - first:
+      213: 8213027335788784353
+    second: shop_sheet_2
+  - first:
+      213: -2503446621231773174
+    second: shop_sheet_3
+  - first:
+      213: 7367434408231589086
+    second: shop_sheet_4
+  - first:
+      213: 4336693339913206009
+    second: shop_sheet_5
+  - first:
+      213: -7991633744834304152
+    second: shop_sheet_6
+  - first:
+      213: 4150833920457387884
+    second: shop_sheet_7
+  - first:
+      213: 1634790723239108348
+    second: shop_sheet_8
+  - first:
+      213: -4928750780311042909
+    second: shop_sheet_9
+  - first:
+      213: 5327101387568354585
+    second: shop_sheet_10
+  - first:
+      213: 4920200184655054832
+    second: shop_sheet_11
+  - first:
+      213: 7667416923435997598
+    second: shop_sheet_12
+  - first:
+      213: 7184033150599936658
+    second: shop_sheet_13
+  - first:
+      213: 4692040909473307753
+    second: shop_sheet_14
+  - first:
+      213: -5344963988859547094
+    second: shop_sheet_15
+  - first:
+      213: 2056982968435528153
+    second: shop_sheet_16
+  - first:
+      213: 7455292285975525909
+    second: shop_sheet_17
+  - first:
+      213: -4585920950136695971
+    second: shop_sheet_18
+  - first:
+      213: -3070524132404660514
+    second: shop_sheet_19
+  - first:
+      213: -6096400788294539149
+    second: shop_sheet_20
+  - first:
+      213: 3862932469757308723
+    second: shop_sheet_21
+  - first:
+      213: 6134897843196624524
+    second: shop_sheet_22
+  - first:
+      213: -2480092231634801168
+    second: shop_sheet_23
+  - first:
+      213: -3663409760689733464
+    second: shop_sheet_24
+  - first:
+      213: 7661931380445852838
+    second: shop_sheet_25
+  - first:
+      213: 8721059171766552814
+    second: shop_sheet_26
+  - first:
+      213: -935110590565752394
+    second: shop_sheet_27
+  - first:
+      213: -1110620239485802204
+    second: shop_sheet_28
+  - first:
+      213: -96686268814352489
+    second: shop_sheet_29
+  - first:
+      213: -4408736218573816576
+    second: shop_sheet_30
+  - first:
+      213: -7850670157110848409
+    second: shop_sheet_31
+  - first:
+      213: 767280493198949592
+    second: shop_sheet_32
+  - first:
+      213: -5367817696940208085
+    second: shop_sheet_33
+  - first:
+      213: 2370609568076279787
+    second: shop_sheet_34
+  - first:
+      213: -7504547177585600956
+    second: shop_sheet_35
+  - first:
+      213: 5400995505230257539
+    second: shop_sheet_36
+  - first:
+      213: -5907242195784551879
+    second: shop_sheet_37
+  - first:
+      213: -401405109141023675
+    second: shop_sheet_38
+  - first:
+      213: -8059380793438498735
+    second: shop_sheet_39
+  - first:
+      213: -4671900117296144478
+    second: shop_sheet_40
+  - first:
+      213: 637105855205863311
+    second: shop_sheet_41
+  - first:
+      213: 3889328327604460928
+    second: shop_sheet_42
+  - first:
+      213: 8960824880348307551
+    second: shop_sheet_43
+  - first:
+      213: 1368508869359182273
+    second: shop_sheet_44
+  - first:
+      213: 3803808085146426449
+    second: shop_sheet_45
+  - first:
+      213: -3007950658877030655
+    second: shop_sheet_46
+  - first:
+      213: 2820812014943339386
+    second: shop_sheet_47
+  - first:
+      213: 7415016088600385345
+    second: shop_sheet_48
+  - first:
+      213: 6969883051051254663
+    second: shop_sheet_49
+  - first:
+      213: 1284750350073378381
+    second: shop_sheet_50
+  - first:
+      213: 1448116992699371899
+    second: shop_sheet_51
+  - first:
+      213: -2334077469386454390
+    second: shop_sheet_52
+  - first:
+      213: -8232361894920550816
+    second: shop_sheet_53
+  - first:
+      213: -3859259531316899347
+    second: shop_sheet_54
+  - first:
+      213: 8594005389146262870
+    second: shop_sheet_55
+  - first:
+      213: 2250620700917871224
+    second: shop_sheet_56
+  - first:
+      213: 348352058141310547
+    second: shop_sheet_57
+  - first:
+      213: -7214540473334657712
+    second: shop_sheet_58
+  - first:
+      213: -4313007220109886500
+    second: shop_sheet_59
+  - first:
+      213: 2881271403976600110
+    second: shop_sheet_60
+  - first:
+      213: 3727694061939700390
+    second: shop_sheet_61
+  - first:
+      213: 5750496600777342382
+    second: shop_sheet_62
+  - first:
+      213: 1320944920596779414
+    second: shop_sheet_63
+  - first:
+      213: 832843745716691120
+    second: shop_sheet_64
+  - first:
+      213: 903495443941546532
+    second: shop_sheet_65
+  - first:
+      213: 4500698761632529009
+    second: shop_sheet_66
+  - first:
+      213: -8622972426178195973
+    second: shop_sheet_67
+  - first:
+      213: 5974586270653632668
+    second: shop_sheet_68
+  - first:
+      213: 4123245257844491312
+    second: shop_sheet_69
+  - first:
+      213: -2805473618128668958
+    second: shop_sheet_70
+  - first:
+      213: 9123154011234805767
+    second: shop_sheet_71
+  - first:
+      213: -6346043744182820179
+    second: shop_sheet_72
+  - first:
+      213: -1281767713915765861
+    second: shop_sheet_73
+  - first:
+      213: 4710910529141304504
+    second: shop_sheet_74
+  - first:
+      213: 6516716860284069501
+    second: shop_sheet_75
+  - first:
+      213: -6607840266892265371
+    second: shop_sheet_76
+  - first:
+      213: 1480929235228445369
+    second: shop_sheet_77
+  - first:
+      213: 849788051235727619
+    second: shop_sheet_78
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 15
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: shop_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 131
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a7ff82def46cc390800000000000000
+      internalID: -7796745809268050016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 0
+        width: 131
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac6a28534a336d50800000000000000
+      internalID: 6729286329138048172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 0
+        width: 131
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea6340f8d88af170800000000000000
+      internalID: 8213027335788784353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 0
+        width: 131
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a0453df88f14dd0800000000000000
+      internalID: -2503446621231773174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 0
+        width: 131
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed452a85f826e3660800000000000000
+      internalID: 7367434408231589086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 0
+        width: 131
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f83459ad970f2c30800000000000000
+      internalID: 4336693339913206009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 0
+        width: 131
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86760285373081190800000000000000
+      internalID: -7991633744834304152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 0
+        width: 131
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f21866579ba9930800000000000000
+      internalID: 4150833920457387884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 1b1f2fbe309355741aae4413f2a828ba
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      shop_sheet_0: -7796745809268050016
+      shop_sheet_1: 6729286329138048172
+      shop_sheet_2: 8213027335788784353
+      shop_sheet_3: -2503446621231773174
+      shop_sheet_4: 7367434408231589086
+      shop_sheet_5: 4336693339913206009
+      shop_sheet_6: -7991633744834304152
+      shop_sheet_7: 4150833920457387884
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
