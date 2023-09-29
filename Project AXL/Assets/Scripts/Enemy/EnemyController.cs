@@ -1,3 +1,4 @@
+using System.Collections;
 using UnityEngine;
 
 public class EnemyController : MonoBehaviour
@@ -12,8 +13,11 @@ public class EnemyController : MonoBehaviour
     const string STATE_UP = "isMovingUp";
     const string STATE_DOWN = "isMovingDown";
     const string STATE_HORIZONTAL = "isMovingHorizontal";
+    const string STATE_DIE = "Die";
 
     public GameObject batteryToInstance;
+
+    [SerializeField] private AnimationClip dieAnimation;
 
     private void Start()
     {
@@ -63,11 +67,20 @@ public class EnemyController : MonoBehaviour
     {
         if (life <= 0)
         {
-            // TODO: Reproducir animación de morir
-            Destroy(gameObject);
-            DropBattery();
+            StartCoroutine(DieAnim());
+            
         }
 
+    }
+    IEnumerator DieAnim()
+    {
+        
+        animator.SetTrigger("Die");
+
+        yield return new WaitForSeconds(dieAnimation.length);
+        
+        Destroy(gameObject);
+        DropBattery();
     }
     
     public void DropBattery()

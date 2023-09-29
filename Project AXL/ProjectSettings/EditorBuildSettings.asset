@@ -12,6 +12,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Level 1.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
+    path: Assets/Scenes/Boss.unity
+    guid: edd7fe62d2b995247bf5b9d87aada3a8
+  - enabled: 1
     path: Assets/Scenes/InsideTranvia.unity
     guid: 95cb1752aaad943468ffc17b89e2abc3
   m_configObjects: {}

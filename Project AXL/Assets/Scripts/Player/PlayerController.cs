@@ -36,8 +36,21 @@ public class PlayerController : MonoBehaviour
     [SerializeField] private float maxBattery;
     [SerializeField] BatteryBarManager batteryBar;
 
+    public static bool playerCreated;
     
 
+    void Start()
+    {
+        if (!playerCreated)
+        {
+            playerCreated = true;
+            DontDestroyOnLoad(this.transform.gameObject);
+        }
+        else
+        {
+            Destroy(gameObject);
+        }
+    }
 
     // Sprite
     SpriteRenderer sprite;
@@ -51,12 +64,6 @@ public class PlayerController : MonoBehaviour
         {
             Debug.LogError("Animator is not assigned!");
         }
-    }
-
-    // Start is called before the first frame update
-    void Start()
-    {
-
     }
 
     // Update is called once per frame
