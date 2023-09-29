@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 5143012886249064883}
   - component: {fileID: 3673316275417452126}
   - component: {fileID: 2541881924526763419}
+  - component: {fileID: -6838265469732670578}
   m_Layer: 0
   m_Name: proyectil
   m_TagString: Untagged
@@ -122,8 +123,8 @@ CircleCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0}
-  m_Radius: 0.49999997
+  m_Offset: {x: -0.01404938, y: 0}
+  m_Radius: 0.63206196
 --- !u!50 &5143012886249064883
 Rigidbody2D:
   serializedVersion: 4
@@ -164,6 +165,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 4
+  lifeTime: 2
 --- !u!95 &2541881924526763419
 Animator:
   serializedVersion: 7
@@ -186,3 +188,16 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &-6838265469732670578
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9204513461023207113}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 247a78ff13187d143b369ec4438b01c4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damage: 25

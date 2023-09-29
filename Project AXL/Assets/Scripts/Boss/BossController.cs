@@ -3,74 +3,74 @@ using System.Collections.Generic;
 using UnityEngine;
 using System.Linq;
 
-public class bosscontroller : MonoBehaviour
+public class BossController : MonoBehaviour
 {
-    [SerializeField] private GameObject proyectilPrefab;
-    [SerializeField] private Transform[] puntospawntorre;//puntos de spawn de las torres
-    public float tiempodisp;//tasa de espera para disparar
-    public float distanciamin;// float para la distancia entre enemigo y player minima
-    public float speed;//velocidad de movimiento
-    public float life = 300f;
-    public float segundafase = 250f;//vida necesaria para cambiar de fase
-    [SerializeField] private Transform Player;//deteccion de player
-    [SerializeField] private Transform punto0;//punto de regreso en fase 2
-    [SerializeField] private Transform torresprefab;//punto donde las torres aparecen
-    private float torresEncontradas;
-    [SerializeField] private float tiempodispa;
-    private float disparado;
-    private List<Transform> puntosNoUtilizados = new List<Transform>();
+    [SerializeField] private GameObject projectilePrefab;
+    [SerializeField] private Transform[] towerSpawnPoints; // Puntos de spawn de las torres
 
+    public float shootInterval; // Tasa de espera para disparar
+    public float minDistance; // Distancia mínima entre el enemigo y el jugador
+    public float speed; // Velocidad de movimiento
+    public float life = 300f;
+    public float secondPhase = 250f; // Vida necesaria para cambiar de fase
+
+    [SerializeField] private Transform player; // Detección del jugador
+    [SerializeField] private Transform point0; // Punto de regreso en la fase 2
+    [SerializeField] private GameObject towerPrefab; // Punto donde aparecen las torres
+
+    private float foundTowers;
+    private float timeShot;
+    private List<Transform> unusedPoints = new List<Transform>();
     Animator animator;
-    [SerializeField] private AnimationClip dieAnimation;
+    [SerializeField] private AnimationClip deathAnimation;
+
     void Start()
     {
         // Agregar todos los puntos de spawn a la lista de puntos no utilizados al inicio
-        puntosNoUtilizados.AddRange(puntospawntorre);
+        unusedPoints.AddRange(towerSpawnPoints);
 
         animator = GetComponent<Animator>();
+        player = FindAnyObjectByType<PlayerController>().transform;
     }
 
     void Update()
     {
-        disparado += Time.deltaTime;
-        GameObject[] torresEncontradas = GameObject.FindGameObjectsWithTag("torres");
-        int torresEncontradasn = torresEncontradas.Length;
+        timeShot += Time.deltaTime;
+        GameObject[] foundTowers = GameObject.FindGameObjectsWithTag("Torres");
+        int foundTowersCount = foundTowers.Length;
 
+        life = GetComponent<HealthController>().currentHealth; // Obtener la vida actual del jefe
 
-        life = GetComponent<HealthController>().currentHealth;//lo que dijiste que pusiera
-        if (life <= segundafase)//if para pasar a la segunda fase
+        if (life <= secondPhase) // Cambiar a la segunda fase
         {
-            foreach (Transform spawnPoint in puntosNoUtilizados)
+            foreach (Transform TowerSpawnPoint in unusedPoints)
             {
-                Instantiate(torresprefab, spawnPoint.position, Quaternion.identity);
+                Instantiate(towerPrefab, TowerSpawnPoint.position, Quaternion.identity);
             }
 
             // Limpiar la lista de puntos de spawn, ya que todos han sido utilizados
-            puntosNoUtilizados.Clear();
+            unusedPoints.Clear();
 
-            transform.position = Vector3.MoveTowards(transform.position, punto0.position, speed * Time.deltaTime);//moverse a posicion 0
+            transform.position = Vector3.MoveTowards(transform.position, point0.position, speed * Time.deltaTime); // Moverse hacia la posición 0
 
-            if (disparado >= tiempodispa)
+            if (timeShot >= shootInterval)
             {
-                disparado = 0;
-                StartCoroutine(Disparo());//disparar
+                timeShot = 0;
+                StartCoroutine(Shoot()); // Disparar
             }
-
-
         }
-
         else
         {
-            transform.position = Vector3.MoveTowards(transform.position, Player.position, speed * Time.deltaTime);//moverse a la posicion de player
+            transform.position = Vector3.MoveTowards(transform.position, player.position, speed * Time.deltaTime); // Moverse hacia la posición del jugador
         }
     }
 
-    IEnumerator Disparo()//codigo para disparar
+    IEnumerator Shoot() // Código para disparar
     {
         while (true)
         {
-            yield return new WaitForSeconds(tiempodisp);
-            Instantiate(proyectilPrefab, transform.position, Quaternion.identity);
+            yield return new WaitForSeconds(shootInterval);
+            Instantiate(projectilePrefab, transform.position, Quaternion.identity);
         }
     }
 
@@ -78,18 +78,16 @@ public class bosscontroller : MonoBehaviour
     {
         if (life <= 0)
         {
-            StartCoroutine(DieAnim());
-
+            Destroy(gameObject);
         }
-
     }
-    IEnumerator DieAnim()
-    {
 
+    /*IEnumerator DieAnim()
+    {
         animator.SetTrigger("Die");
 
-        yield return new WaitForSeconds(dieAnimation.length);
+        yield return new WaitForSeconds(deathAnimation.length);
 
         Destroy(gameObject);
-    }
+    }*/
 }

@@ -114,6 +114,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   damage: 50
+  torresEncontradas: 0
+  isInmune: 1
 --- !u!58 &4523191975962818424
 CircleCollider2D:
   m_ObjectHideFlags: 0

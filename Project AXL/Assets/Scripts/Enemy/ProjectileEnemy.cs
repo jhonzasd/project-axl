@@ -8,29 +8,36 @@ public class ProjectileEnemy : MonoBehaviour
     Rigidbody2D rb;
     private Transform player;//detectar player
 
+    public float lifeTime;
+    public int damage = 25;
 
     void Start()
     {
         player = FindAnyObjectByType<PlayerController>().transform;
         rb = GetComponent<Rigidbody2D>();
         disparar();
+        StartCoroutine(DeathDelay());
     }
 
     void disparar()//salir disparado en la direccion del enemigo
     {
         Vector2 haciaElJugador = (player.position - transform.position).normalized;
         rb.velocity = haciaElJugador * speed;
-        StartCoroutine(drestruir());
-    }
-    void OnCollisionEnter2D()//destruirse al chocar con algo
-    {
-        Destroy(gameObject);
+        
     }
 
-    IEnumerator drestruir()//destruirse tras pasar un tiempo
+    private void OnTriggerEnter2D(Collider2D collision)
     {
-        float tiempoduso = 5f;//tiempo necesesario para que el disparo desaparesca
-        yield return new WaitForSeconds(tiempoduso);
+        if (collision.gameObject.CompareTag("Player"))
+        {
+            collision.GetComponent<HealthController>().DamageCharacter(damage);
+            Destroy(gameObject);
+        }
+    }
+
+    IEnumerator DeathDelay()//destruirse tras pasar un tiempo
+    {
+        yield return new WaitForSeconds(lifeTime);
         Destroy(gameObject);
     }
 }
