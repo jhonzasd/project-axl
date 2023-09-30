@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
+using UnityEngine.SceneManagement;
 
 public class PlayerController : MonoBehaviour
 {
@@ -9,9 +10,11 @@ public class PlayerController : MonoBehaviour
     public float movementSpeed; // Velocidad de movimiento
     Rigidbody2D rigidBody;
 
+    public float tiempoEsperaAntesDeReiniciar;
+    public GameObject panelGameOver;
     // Variables de recolección
     public TMP_Text collectedBatteryText; // Texto de cantidad de baterías recolectadas
-    public static int collectedBatteryAmount = 9; // Número de cantidad de baterías recolectadas
+    public static int collectedBatteryAmount = 0; // Número de cantidad de baterías recolectadas
 
     // Variables del disparo
     public GameObject bulletPrefab;
@@ -30,17 +33,22 @@ public class PlayerController : MonoBehaviour
     private const string lastHorizontal = "LastHorizontal";
     private const string lastVertical = "LastVertical";
     private const string walkingState = "Walking";
-
+    private const string hurt = "Hurt";
+    public AnimationClip dieAnim;
+    public AnimationClip hurtAnim;
     // Batería
     [SerializeField] private float battery;
     [SerializeField] private float maxBattery;
     [SerializeField] BatteryBarManager batteryBar;
 
+    public int life;
+    SFXManager sfxManager;
     public static bool playerCreated;
-    
+
 
     void Start()
     {
+        sfxManager = FindFirstObjectByType<SFXManager>();
         if (!playerCreated)
         {
             playerCreated = true;
@@ -69,9 +77,11 @@ public class PlayerController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        Die();
+        life = GetComponent<HealthController>().currentHealth;
         walking = false;
-     
-        if(Mathf.Abs(Input.GetAxisRaw(horizontal)) > 0.5f)
+
+        if (Mathf.Abs(Input.GetAxisRaw(horizontal)) > 0.5f)
         {
             this.transform.Translate(
                 new Vector3(Input.GetAxisRaw(horizontal) * movementSpeed * Time.deltaTime, 0, 0));
@@ -79,7 +89,7 @@ public class PlayerController : MonoBehaviour
             lastMovement = new Vector2(Input.GetAxisRaw(horizontal), 0);
         }
 
-        if(Mathf.Abs(Input.GetAxisRaw(vertical)) > 0.5f)
+        if (Mathf.Abs(Input.GetAxisRaw(vertical)) > 0.5f)
         {
             this.transform.Translate(
                 new Vector3(0, Input.GetAxisRaw(vertical) * movementSpeed * Time.deltaTime, 0));
@@ -90,7 +100,7 @@ public class PlayerController : MonoBehaviour
         float shootHor = Input.GetAxis("ShootHorizontal");
         float shootVert = Input.GetAxis("ShootVertical");
 
-        if((shootHor != 0) && Time.time > lastFire + fireDelay)
+        if ((shootHor != 0) && Time.time > lastFire + fireDelay)
         {
             Shoot(shootHor, 0);
             lastFire = Time.time;
@@ -101,13 +111,13 @@ public class PlayerController : MonoBehaviour
             Shoot(0, shootVert);
             lastFire = Time.time;
         }
-        
+
         collectedBatteryText.text = "Baterías recolectadas: " + collectedBatteryAmount;
 
         // Animación
         Animation();
-        
-    
+
+
     }
 
     void Shoot(float x, float y)
@@ -117,20 +127,28 @@ public class PlayerController : MonoBehaviour
         bullet.GetComponent<Rigidbody2D>().velocity = new Vector2(
             (x < 0) ? Mathf.Floor(x) * bulletSpeed : Mathf.Ceil(x) * bulletSpeed,
             (y < 0) ? Mathf.Floor(y) * bulletSpeed : Mathf.Ceil(y) * bulletSpeed
-            );                                                                                                                                                    
+            );
     }
 
-    void Animation()            
+    void Animation()
     {
-       animator.SetFloat(horizontal, Input.GetAxisRaw(horizontal));
-       animator.SetFloat(vertical, Input.GetAxisRaw(vertical));
+        animator.SetFloat(horizontal, Input.GetAxisRaw(horizontal));
+        animator.SetFloat(vertical, Input.GetAxisRaw(vertical));
 
-       animator.SetBool(walkingState, walking);
+        animator.SetBool(walkingState, walking);
 
         animator.SetFloat(lastHorizontal, lastMovement.x);
         animator.SetFloat(lastVertical, lastMovement.y);
 
-       
-       sprite.flipX = lastMovement.x < -0.5f || Input.GetAxisRaw(horizontal) < -0.5f;
+
+        sprite.flipX = lastMovement.x < -0.5f || Input.GetAxisRaw(horizontal) < -0.5f;
+    }
+
+    void Die()
+    {
+        if (life <= 0)
+        {
+            
+        }
     }
 }

@@ -1,0 +1,679 @@
+fileFormatVersion: 2
+guid: c9fa1571c9d21fd42a2af3463567c58d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9221642298028672908
+    second: ani, de el malo enteando al robot-Sheet_0
+  - first:
+      213: -7250905749977417681
+    second: ani, de el malo enteando al robot-Sheet_1
+  - first:
+      213: -3584546503543278996
+    second: ani, de el malo enteando al robot-Sheet_2
+  - first:
+      213: -6970298184940696034
+    second: ani, de el malo enteando al robot-Sheet_3
+  - first:
+      213: 2189123828368918840
+    second: ani, de el malo enteando al robot-Sheet_4
+  - first:
+      213: 6892461151339502438
+    second: ani, de el malo enteando al robot-Sheet_5
+  - first:
+      213: 3843694487072743620
+    second: ani, de el malo enteando al robot-Sheet_6
+  - first:
+      213: -3958201891909372937
+    second: ani, de el malo enteando al robot-Sheet_7
+  - first:
+      213: 1014762062663993147
+    second: ani, de el malo enteando al robot-Sheet_8
+  - first:
+      213: -2448762067242475268
+    second: ani, de el malo enteando al robot-Sheet_9
+  - first:
+      213: -4292906737319762300
+    second: ani, de el malo enteando al robot-Sheet_10
+  - first:
+      213: -2717162507657921143
+    second: ani, de el malo enteando al robot-Sheet_11
+  - first:
+      213: 6712831372954024204
+    second: ani, de el malo enteando al robot-Sheet_12
+  - first:
+      213: 2893884927889691198
+    second: ani, de el malo enteando al robot-Sheet_13
+  - first:
+      213: -1487367924361961399
+    second: ani, de el malo enteando al robot-Sheet_14
+  - first:
+      213: 5105424852777439268
+    second: ani, de el malo enteando al robot-Sheet_15
+  - first:
+      213: -111307751795093255
+    second: ani, de el malo enteando al robot-Sheet_16
+  - first:
+      213: 9206235317985240411
+    second: ani, de el malo enteando al robot-Sheet_17
+  - first:
+      213: -3722004445537906811
+    second: ani, de el malo enteando al robot-Sheet_18
+  - first:
+      213: 1086421869952830958
+    second: ani, de el malo enteando al robot-Sheet_19
+  - first:
+      213: -4574544844817978637
+    second: ani, de el malo enteando al robot-Sheet_20
+  - first:
+      213: -2142041885470031171
+    second: ani, de el malo enteando al robot-Sheet_21
+  - first:
+      213: 7676579851071036058
+    second: ani, de el malo enteando al robot-Sheet_22
+  - first:
+      213: 1052532781367394327
+    second: ani, de el malo enteando al robot-Sheet_23
+  - first:
+      213: 8032469546277283211
+    second: ani, de el malo enteando al robot-Sheet_24
+  - first:
+      213: -7108453630988974182
+    second: ani, de el malo enteando al robot-Sheet_25
+  - first:
+      213: -2246301669506001981
+    second: ani, de el malo enteando al robot-Sheet_26
+  - first:
+      213: -5349536657679836615
+    second: ani, de el malo enteando al robot-Sheet_27
+  - first:
+      213: -2256771618821700938
+    second: ani, de el malo enteando al robot-Sheet_28
+  - first:
+      213: 7484307965268208736
+    second: ani, de el malo enteando al robot-Sheet_29
+  - first:
+      213: 6845907057885918005
+    second: ani, de el malo enteando al robot-Sheet_30
+  - first:
+      213: -2070820594756964567
+    second: ani, de el malo enteando al robot-Sheet_31
+  - first:
+      213: -9144028389029130349
+    second: ani, de el malo enteando al robot-Sheet_32
+  - first:
+      213: -2051257857339519092
+    second: ani, de el malo enteando al robot-Sheet_33
+  - first:
+      213: 3276248697611519100
+    second: ani, de el malo enteando al robot-Sheet_34
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ani, de el malo enteando al robot-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 367
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 478b8443035260080800000000000000
+      internalID: -9221642298028672908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ani, de el malo enteando al robot-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 0
+        width: 367
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2832c823ab9f5b90800000000000000
+      internalID: -7250905749977417681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ani, de el malo enteando al robot-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 0
+        width: 367
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c623f6f52f1214ec0800000000000000
+      internalID: -3584546503543278996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ani, de el malo enteando al robot-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 0
+        width: 367
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e4f042bb6844f90800000000000000
+      internalID: -6970298184940696034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ani, de el malo enteando al robot-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 0
+        width: 367
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 839c54ff584516e10800000000000000
+      internalID: 2189123828368918840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ani, de el malo enteando al robot-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 0
+        width: 367
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b55c936e0f6af50800000000000000
+      internalID: 6892461151339502438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ani, de el malo enteando al robot-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 0
+        width: 367
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c0291f65cb875530800000000000000
+      internalID: 3843694487072743620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ani, de el malo enteando al robot-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 2569
+        y: 0
+        width: 367
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f3767bc954a119c0800000000000000
+      internalID: -3958201891909372937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ani, de el malo enteando al robot-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 2936
+        y: 0
+        width: 367
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3741a438b8251e00800000000000000
+      internalID: 1014762062663993147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ani, de el malo enteando al robot-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 3303
+        y: 0
+        width: 367
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf0af8abfdf340ed0800000000000000
+      internalID: -2448762067242475268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ani, de el malo enteando al robot-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 3670
+        y: 0
+        width: 367
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 486ac2431188c64c0800000000000000
+      internalID: -4292906737319762300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ani, de el malo enteando al robot-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 4037
+        y: 0
+        width: 367
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d3a0e6813ba4ad0800000000000000
+      internalID: -2717162507657921143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ani, de el malo enteando al robot-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 4404
+        y: 0
+        width: 367
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c09b50e4194c82d50800000000000000
+      internalID: 6712831372954024204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ani, de el malo enteando al robot-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 4771
+        y: 0
+        width: 367
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e32d8bb6205292820800000000000000
+      internalID: 2893884927889691198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ani, de el malo enteando al robot-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 5138
+        y: 0
+        width: 367
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9406812d0cecb5be0800000000000000
+      internalID: -1487367924361961399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ani, de el malo enteando al robot-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 5505
+        y: 0
+        width: 367
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42010499adc1ad640800000000000000
+      internalID: 5105424852777439268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ani, de el malo enteando al robot-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 5872
+        y: 0
+        width: 367
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f09181803e847ef0800000000000000
+      internalID: -111307751795093255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ani, de el malo enteando al robot-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 6239
+        y: 0
+        width: 367
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b556a27be3e13cf70800000000000000
+      internalID: 9206235317985240411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ani, de el malo enteando al robot-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 6606
+        y: 0
+        width: 367
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58fc9434da8c85cc0800000000000000
+      internalID: -3722004445537906811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ani, de el malo enteando al robot-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 6973
+        y: 0
+        width: 367
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eed01c24feeb31f00800000000000000
+      internalID: 1086421869952830958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ani, de el malo enteando al robot-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 7340
+        y: 0
+        width: 367
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3faa78b53b3f380c0800000000000000
+      internalID: -4574544844817978637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c37628ed180207d4b876a98e3ed67288
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ani, de el malo enteando al robot-Sheet_0: -9221642298028672908
+      ani, de el malo enteando al robot-Sheet_1: -7250905749977417681
+      ani, de el malo enteando al robot-Sheet_10: -4292906737319762300
+      ani, de el malo enteando al robot-Sheet_11: -2717162507657921143
+      ani, de el malo enteando al robot-Sheet_12: 6712831372954024204
+      ani, de el malo enteando al robot-Sheet_13: 2893884927889691198
+      ani, de el malo enteando al robot-Sheet_14: -1487367924361961399
+      ani, de el malo enteando al robot-Sheet_15: 5105424852777439268
+      ani, de el malo enteando al robot-Sheet_16: -111307751795093255
+      ani, de el malo enteando al robot-Sheet_17: 9206235317985240411
+      ani, de el malo enteando al robot-Sheet_18: -3722004445537906811
+      ani, de el malo enteando al robot-Sheet_19: 1086421869952830958
+      ani, de el malo enteando al robot-Sheet_2: -3584546503543278996
+      ani, de el malo enteando al robot-Sheet_20: -4574544844817978637
+      ani, de el malo enteando al robot-Sheet_3: -6970298184940696034
+      ani, de el malo enteando al robot-Sheet_4: 2189123828368918840
+      ani, de el malo enteando al robot-Sheet_5: 6892461151339502438
+      ani, de el malo enteando al robot-Sheet_6: 3843694487072743620
+      ani, de el malo enteando al robot-Sheet_7: -3958201891909372937
+      ani, de el malo enteando al robot-Sheet_8: 1014762062663993147
+      ani, de el malo enteando al robot-Sheet_9: -2448762067242475268
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,412 @@
+fileFormatVersion: 2
+guid: 78e569e56579df64a84deb288297029d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6330576870082980674
+    second: enemigo del mundo 2 -Sheet_0
+  - first:
+      213: 1662849651941839924
+    second: enemigo del mundo 2 -Sheet_1
+  - first:
+      213: -8181789396773651646
+    second: enemigo del mundo 2 -Sheet_2
+  - first:
+      213: -2517213486190151718
+    second: enemigo del mundo 2 -Sheet_3
+  - first:
+      213: 8183230216136917675
+    second: enemigo del mundo 2 -Sheet_4
+  - first:
+      213: 7892525313459928510
+    second: enemigo del mundo 2 -Sheet_5
+  - first:
+      213: -7147817529077238972
+    second: enemigo del mundo 2 -Sheet_6
+  - first:
+      213: 9013092640403397529
+    second: enemigo del mundo 2 -Sheet_7
+  - first:
+      213: 3845784720879291391
+    second: enemigo del mundo 2 -Sheet_8
+  - first:
+      213: 1686922692319906124
+    second: enemigo del mundo 2 -Sheet_9
+  - first:
+      213: 5484233042848125116
+    second: enemigo del mundo 2 -Sheet_10
+  - first:
+      213: -247428313552489508
+    second: enemigo del mundo 2 -Sheet_11
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 17
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: enemigo del mundo 2 -Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24ba99c5f1abad750800000000000000
+      internalID: 6330576870082980674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigo del mundo 2 -Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 3
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43410e2c2f0a31710800000000000000
+      internalID: 1662849651941839924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigo del mundo 2 -Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 3
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24bbf3284e1747e80800000000000000
+      internalID: -8181789396773651646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigo del mundo 2 -Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 4
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad730dbcbaf011dd0800000000000000
+      internalID: -2517213486190151718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigo del mundo 2 -Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 3
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba28514668ca09170800000000000000
+      internalID: 8183230216136917675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigo del mundo 2 -Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 2
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebdbe89c4f1e78d60800000000000000
+      internalID: 7892525313459928510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigo del mundo 2 -Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 3
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4437a0cf3d9ddcc90800000000000000
+      internalID: -7147817529077238972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigo del mundo 2 -Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 3
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b9ee6c000f41d70800000000000000
+      internalID: 9013092640403397529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigo del mundo 2 -Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 4
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb82aae3d8fe5530800000000000000
+      internalID: 3845784720879291391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigo del mundo 2 -Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 3
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c49064f3047296710800000000000000
+      internalID: 1686922692319906124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigo del mundo 2 -Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 2
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb01c6055e8eb1c40800000000000000
+      internalID: 5484233042848125116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigo del mundo 2 -Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 3
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd3745f7245f09cf0800000000000000
+      internalID: -247428313552489508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      enemigo del mundo 2 -Sheet_0: 6330576870082980674
+      enemigo del mundo 2 -Sheet_1: 1662849651941839924
+      enemigo del mundo 2 -Sheet_10: 5484233042848125116
+      enemigo del mundo 2 -Sheet_11: -247428313552489508
+      enemigo del mundo 2 -Sheet_2: -8181789396773651646
+      enemigo del mundo 2 -Sheet_3: -2517213486190151718
+      enemigo del mundo 2 -Sheet_4: 8183230216136917675
+      enemigo del mundo 2 -Sheet_5: 7892525313459928510
+      enemigo del mundo 2 -Sheet_6: -7147817529077238972
+      enemigo del mundo 2 -Sheet_7: 9013092640403397529
+      enemigo del mundo 2 -Sheet_8: 3845784720879291391
+      enemigo del mundo 2 -Sheet_9: 1686922692319906124
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

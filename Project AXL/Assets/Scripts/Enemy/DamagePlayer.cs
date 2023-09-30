@@ -10,6 +10,7 @@ public class DamagePlayer : MonoBehaviour
         if (collision.gameObject.CompareTag("Player"))
         {
             collision.gameObject.GetComponent<HealthController>().DamageCharacter(damage);
+
         }
     }
 }

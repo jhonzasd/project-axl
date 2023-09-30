@@ -1,0 +1,537 @@
+fileFormatVersion: 2
+guid: 9b2c3493ee2723f4cb8ff64dfc746cc7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5806820356720443559
+    second: escudo -Sheet_0
+  - first:
+      213: -2774116254569544197
+    second: escudo -Sheet_1
+  - first:
+      213: 7953107734560606546
+    second: escudo -Sheet_2
+  - first:
+      213: -3572344920155356878
+    second: escudo -Sheet_3
+  - first:
+      213: 5108826772611984561
+    second: escudo -Sheet_4
+  - first:
+      213: 3718612687794016365
+    second: escudo -Sheet_5
+  - first:
+      213: -1471497136596845983
+    second: escudo -Sheet_6
+  - first:
+      213: 401393053289667884
+    second: escudo -Sheet_7
+  - first:
+      213: -3611421094277029109
+    second: escudo -Sheet_8
+  - first:
+      213: 3644122886068659038
+    second: escudo -Sheet_9
+  - first:
+      213: 195149099158993047
+    second: escudo -Sheet_10
+  - first:
+      213: 3892336475105609158
+    second: escudo -Sheet_11
+  - first:
+      213: -383466338797798566
+    second: escudo -Sheet_12
+  - first:
+      213: -1829850744752268383
+    second: escudo -Sheet_13
+  - first:
+      213: -6958995855112990577
+    second: escudo -Sheet_14
+  - first:
+      213: 4753812596753166809
+    second: escudo -Sheet_15
+  - first:
+      213: 8579251939709443384
+    second: escudo -Sheet_16
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 45
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: escudo -Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 7
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a044dc3958f59050800000000000000
+      internalID: 5806820356720443559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escudo -Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 5
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf5ceb0e6fb5089d0800000000000000
+      internalID: -2774116254569544197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escudo -Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 7
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25985e2e85d1f5e60800000000000000
+      internalID: 7953107734560606546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escudo -Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 13
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23108f2e83b7c6ec0800000000000000
+      internalID: -3572344920155356878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escudo -Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 9
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bcea88c1e236e640800000000000000
+      internalID: 5108826772611984561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escudo -Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 8
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d601939998a2b9330800000000000000
+      internalID: 3718612687794016365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escudo -Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 3
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16af32d8621349be0800000000000000
+      internalID: -1471497136596845983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escudo -Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 7
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2dd3a4fad8029500800000000000000
+      internalID: 401393053289667884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escudo -Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 7
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b03e34d16a7a1edc0800000000000000
+      internalID: -3611421094277029109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escudo -Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 8
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e536efd1576829230800000000000000
+      internalID: 3644122886068659038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escudo -Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 7
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 798fb9d521f45b200800000000000000
+      internalID: 195149099158993047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escudo -Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 10
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c547f0d66b540630800000000000000
+      internalID: 3892336475105609158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escudo -Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 7
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b33a48567adaaf0800000000000000
+      internalID: -383466338797798566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escudo -Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 8
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab9e0f41701b96e0800000000000000
+      internalID: -1829850744752268383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escudo -Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 8
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f80139ed32eac6f90800000000000000
+      internalID: -6958995855112990577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escudo -Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 8
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d1ff36be5fe8f140800000000000000
+      internalID: 4753812596753166809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escudo -Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 8
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d56f03f20af0770800000000000000
+      internalID: 8579251939709443384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      escudo -Sheet_0: 5806820356720443559
+      escudo -Sheet_1: -2774116254569544197
+      escudo -Sheet_10: 195149099158993047
+      escudo -Sheet_11: 3892336475105609158
+      escudo -Sheet_12: -383466338797798566
+      escudo -Sheet_13: -1829850744752268383
+      escudo -Sheet_14: -6958995855112990577
+      escudo -Sheet_15: 4753812596753166809
+      escudo -Sheet_16: 8579251939709443384
+      escudo -Sheet_2: 7953107734560606546
+      escudo -Sheet_3: -3572344920155356878
+      escudo -Sheet_4: 5108826772611984561
+      escudo -Sheet_5: 3718612687794016365
+      escudo -Sheet_6: -1471497136596845983
+      escudo -Sheet_7: 401393053289667884
+      escudo -Sheet_8: -3611421094277029109
+      escudo -Sheet_9: 3644122886068659038
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

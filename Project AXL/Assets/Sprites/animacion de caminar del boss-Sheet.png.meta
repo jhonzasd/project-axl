@@ -1,0 +1,512 @@
+fileFormatVersion: 2
+guid: fba5678c619ad154e9c5c3d514f83e09
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4204321087868844793
+    second: animacion de caminar del boss-Sheet_0
+  - first:
+      213: -2911113723596744125
+    second: animacion de caminar del boss-Sheet_1
+  - first:
+      213: 5353805996944610888
+    second: animacion de caminar del boss-Sheet_2
+  - first:
+      213: 2259840945966437882
+    second: animacion de caminar del boss-Sheet_3
+  - first:
+      213: 7288969597838697771
+    second: animacion de caminar del boss-Sheet_4
+  - first:
+      213: -1927729975493173704
+    second: animacion de caminar del boss-Sheet_5
+  - first:
+      213: -4029071450935237485
+    second: animacion de caminar del boss-Sheet_6
+  - first:
+      213: -2870873319820985205
+    second: animacion de caminar del boss-Sheet_7
+  - first:
+      213: -1666735416140864422
+    second: animacion de caminar del boss-Sheet_8
+  - first:
+      213: 7030461070927639337
+    second: animacion de caminar del boss-Sheet_9
+  - first:
+      213: -323778021911282056
+    second: animacion de caminar del boss-Sheet_10
+  - first:
+      213: 3361796208187617382
+    second: animacion de caminar del boss-Sheet_11
+  - first:
+      213: 7027999383914316464
+    second: animacion de caminar del boss-Sheet_12
+  - first:
+      213: -2528720577817671954
+    second: animacion de caminar del boss-Sheet_13
+  - first:
+      213: -1544923824010002207
+    second: animacion de caminar del boss-Sheet_14
+  - first:
+      213: -6209879988517241253
+    second: animacion de caminar del boss-Sheet_15
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 14
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: animacion de caminar del boss-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 7
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fa3b1401cfb85a30800000000000000
+      internalID: 4204321087868844793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animacion de caminar del boss-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 7
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a504cfd75a997d0800000000000000
+      internalID: -2911113723596744125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animacion de caminar del boss-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 11
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8465d34403a8c4a40800000000000000
+      internalID: 5353805996944610888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animacion de caminar del boss-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 10
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af556310e519c5f10800000000000000
+      internalID: 2259840945966437882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animacion de caminar del boss-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 11
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b252cc90b3f972560800000000000000
+      internalID: 7288969597838697771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animacion de caminar del boss-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 10
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e5bd30dc35f35e0800000000000000
+      internalID: -1927729975493173704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animacion de caminar del boss-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 11
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3946650ccdcd518c0800000000000000
+      internalID: -4029071450935237485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animacion de caminar del boss-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 10
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c7ce81deb9828d0800000000000000
+      internalID: -2870873319820985205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animacion de caminar del boss-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 11
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a546c5248f09ed8e0800000000000000
+      internalID: -1666735416140864422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animacion de caminar del boss-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 10
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 923bad35817319160800000000000000
+      internalID: 7030461070927639337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animacion de caminar del boss-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 11
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e36e1ca95b18bf0800000000000000
+      internalID: -323778021911282056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animacion de caminar del boss-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 10
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 660374cf6df77ae20800000000000000
+      internalID: 3361796208187617382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animacion de caminar del boss-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 11
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b280e72438788160800000000000000
+      internalID: 7027999383914316464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animacion de caminar del boss-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 11
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee605fe380e28ecd0800000000000000
+      internalID: -2528720577817671954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animacion de caminar del boss-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 7
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e088d8a7f35f8ae0800000000000000
+      internalID: -1544923824010002207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animacion de caminar del boss-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 7
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e7f924d0312d9a0800000000000000
+      internalID: -6209879988517241253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      animacion de caminar del boss-Sheet_0: 4204321087868844793
+      animacion de caminar del boss-Sheet_1: -2911113723596744125
+      animacion de caminar del boss-Sheet_10: -323778021911282056
+      animacion de caminar del boss-Sheet_11: 3361796208187617382
+      animacion de caminar del boss-Sheet_12: 7027999383914316464
+      animacion de caminar del boss-Sheet_13: -2528720577817671954
+      animacion de caminar del boss-Sheet_14: -1544923824010002207
+      animacion de caminar del boss-Sheet_15: -6209879988517241253
+      animacion de caminar del boss-Sheet_2: 5353805996944610888
+      animacion de caminar del boss-Sheet_3: 2259840945966437882
+      animacion de caminar del boss-Sheet_4: 7288969597838697771
+      animacion de caminar del boss-Sheet_5: -1927729975493173704
+      animacion de caminar del boss-Sheet_6: -4029071450935237485
+      animacion de caminar del boss-Sheet_7: -2870873319820985205
+      animacion de caminar del boss-Sheet_8: -1666735416140864422
+      animacion de caminar del boss-Sheet_9: 7030461070927639337
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

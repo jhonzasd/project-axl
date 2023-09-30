@@ -138,7 +138,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   maxBattery: 0
   batteryBar: {fileID: 0}
-  battery: 1
+  battery: 0.3
 --- !u!1 &3713465148145410057
 GameObject:
   m_ObjectHideFlags: 0

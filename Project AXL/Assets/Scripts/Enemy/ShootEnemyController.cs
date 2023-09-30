@@ -20,12 +20,15 @@ public class ShootEnemyController : MonoBehaviour
     const string STATE_UP = "isMovingUp";
     const string STATE_DOWN = "isMovingDown";
     const string STATE_HORIZONTAL = "isMovingHorizontal";
+
+    public SFXManager sfxManager;
     void Start()
     {
         StartCoroutine(Disparo());
         animator = GetComponent<Animator>();
         sprite = GetComponent<SpriteRenderer>();
         Player = FindAnyObjectByType<PlayerController>().transform;
+        sfxManager = FindFirstObjectByType<SFXManager>();
     }
 
     void Update()
@@ -78,7 +81,9 @@ public class ShootEnemyController : MonoBehaviour
     {
         if (life <= 0)
         {
+            
             StartCoroutine(DieAnim());
+            sfxManager.playerDead.Play();
 
         }
 

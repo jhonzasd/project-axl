@@ -2,6 +2,9 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using System.Linq;
+using UnityEngine.U2D;
+using Unity.VisualScripting;
+using UnityEngine.SceneManagement;
 
 public class BossController : MonoBehaviour
 {
@@ -23,9 +26,11 @@ public class BossController : MonoBehaviour
     private List<Transform> unusedPoints = new List<Transform>();
     Animator animator;
     [SerializeField] private AnimationClip deathAnimation;
-
+    SpriteRenderer sprite;
+    private const string horizontal = "Horizontal";
     void Start()
     {
+        sprite = GetComponent<SpriteRenderer>();
         // Agregar todos los puntos de spawn a la lista de puntos no utilizados al inicio
         unusedPoints.AddRange(towerSpawnPoints);
 
@@ -35,6 +40,7 @@ public class BossController : MonoBehaviour
 
     void Update()
     {
+        Animation();
         timeShot += Time.deltaTime;
         GameObject[] foundTowers = GameObject.FindGameObjectsWithTag("Torres");
         int foundTowersCount = foundTowers.Length;
@@ -79,7 +85,21 @@ public class BossController : MonoBehaviour
         if (life <= 0)
         {
             Destroy(gameObject);
+            SceneManager.LoadScene("MainMenu");
         }
+    }
+
+    void Animation()
+    {
+        if (Mathf.Abs(Input.GetAxisRaw(horizontal)) > 0.5f)
+        {
+            sprite.flipX = true;
+        }
+        else
+        {
+            sprite.flipX = false;
+        }
+
     }
 
     /*IEnumerator DieAnim()
